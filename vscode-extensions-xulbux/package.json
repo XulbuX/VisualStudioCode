@@ -1,16 +1,36 @@
 {
-  "name": "my-extension-pack",
-  "displayName": "My Extension Pack",
+  "name": "xulbux-extension-pack",
+  "displayName": "XulbuX Extension Pack",
   "description": "A collection of my essential VSCode extensions",
+  "publisher": "xulbux",
   "version": "0.0.1",
-  "publisher": "your-username",
   "engines": {
     "vscode": "^1.60.0"
+  },
+  "icon": "icons/XulbuX-Theme.png",
+  "author": {
+    "name": "XulbuX",
+    "email": "xulbux.real@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/XulbuX-dev/VisualStudioCode/vscode-theme-xulbux-pro.git",
+    "type": "git"
   },
   "categories": ["Extension Packs"],
   "extensionPack": [
     "your.extension1",
     "your.extension2",
     "your.extension3"
-  ]
+  ],
+  "__metadata": {
+    "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
+    "publisherId": "77f5e7c0-42af-4d80-ab24-d9657bfebe93",
+    "publisherDisplayName": "XulbuX",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1710139219097,
+    "pinned": false
+  }
 }
