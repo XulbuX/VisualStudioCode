@@ -1,0 +1,16 @@
+{
+  "name": "my-extension-pack",
+  "displayName": "My Extension Pack",
+  "description": "A collection of my essential VSCode extensions",
+  "version": "0.0.1",
+  "publisher": "your-username",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "your.extension1",
+    "your.extension2",
+    "your.extension3"
+  ]
+}

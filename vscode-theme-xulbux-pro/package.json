@@ -1,0 +1,47 @@
+{
+  "name": "theme-xulbux-neon-pro",
+  "displayName": "XulbuX Neon Pro",
+  "description": "A crisp dark-theme with powerful colors and very clear syntax highlighting.",
+  "publisher": "xulbux",
+  "version": "1.0.26",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "icon": "icons/XulbuX-Theme.png",
+  "author": {
+    "name": "XulbuX",
+    "email": "xulbux.real@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/XulbuX-dev/vscode-theme-xulbux-pro.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+  "themes": [
+    {
+      "label": "XulbuX Neon",
+      "uiTheme": "vs-dark",
+      "path": "./themes/xulbux-neon.json"
+    },
+    {
+      "label": "XulbuX Neon Pro",
+      "uiTheme": "vs-dark",
+      "path": "./themes/xulbux-neon-pro.json"
+    }
+  ]
+  },
+  "__metadata": {
+    "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
+    "publisherId": "77f5e7c0-42af-4d80-ab24-d9657bfebe93",
+    "publisherDisplayName": "XulbuX",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1710139219097,
+    "pinned": false
+  }
+}
