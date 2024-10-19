@@ -16,6 +16,8 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
+If you can't see the colors in this table (if it just looks like weird codes), see the [table with just the color names](#colornames).
+
 |             XulbuX Neon             |         XulbuX Neon Pro          |
 |                :--:                 |              :--:                |
 | $\color{#FF4D9A}\textsf{rose}$      | $\color{#FF606A}\textsf{red}$    |
