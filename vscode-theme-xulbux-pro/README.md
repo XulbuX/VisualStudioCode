@@ -18,18 +18,18 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 If you can't see the colors in this table (*if it just looks like weird codes*), see the [table with just the color names](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
 
-|             XulbuX Neon             |         XulbuX Neon Pro          |
-|                :--:                 |              :--:                |
-| $\color{#FF4D9A}\textsf{rose}$      | $\color{#FF606A}\textsf{red}$    |
-| $\color{#FF65CC}\textsf{hot-pink}$  | $\color{#FF806A}\textsf{orange}$ |
-| $\color{#E565FF}\textsf{helitrope}$ | $\color{#FFAB6A}\textsf{gold}$   |
-| $\color{#9AFFB0}\textsf{mint}$      | $\color{#2BFF9A}\textsf{green}$  |
-| $\color{#2BFFAB}\textsf{neon}$      | $\color{#41F1C2}\textsf{teal}$   |
-| $\color{#55FFEF}\textsf{cyan}$      | $\color{#77FFEF}\textsf{cyan}$   |
-| $\color{#60AAFF}\textsf{blue}$      | $\color{#60AAFF}\textsf{blue}$   |
-| $\color{#7075FF}\textsf{xulbux}$    | $\color{#8085FF}\textsf{xulbux}$ |
-| $\color{#AC80FF}\textsf{purple}$    | $\color{#AC80FF}\textsf{purple}$ |
-| $\color{#FC61EF}\textsf{pink}$      | $\color{#EE60BB}\textsf{pink}$   |
+|             XulbuX Neon              |         XulbuX Neon Pro          |
+|                 :--:                 |              :--:                |
+| $\color{#FF4D9A}\textsf{rose}$       | $\color{#FF606A}\textsf{red}$    |
+| $\color{#FF65CC}\textsf{hot-pink}$   | $\color{#FF806A}\textsf{orange}$ |
+| $\color{#E565FF}\textsf{helitrope}$  | $\color{#FFAB6A}\textsf{gold}$   |
+| $\color{#9AFFB0}\textsf{mint}$       | $\color{#2BFF9A}\textsf{green}$  |
+| $\color{#2BFFAB}\textsf{neon green}$ | $\color{#41F1C2}\textsf{teal}$   |
+| $\color{#55FFEF}\textsf{cyan}$       | $\color{#77FFEF}\textsf{cyan}$   |
+| $\color{#60AAFF}\textsf{blue}$       | $\color{#60AAFF}\textsf{blue}$   |
+| $\color{#7075FF}\textsf{xulbux}$     | $\color{#8085FF}\textsf{xulbux}$ |
+| $\color{#AC80FF}\textsf{purple}$     | $\color{#AC80FF}\textsf{purple}$ |
+| $\color{#FC61EF}\textsf{pink}$       | $\color{#EE60BB}\textsf{pink}$   |
 
 <br>
 
