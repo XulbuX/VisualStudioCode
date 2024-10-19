@@ -1,4 +1,4 @@
-# <span style="color:#8085FF"><strong>XulbuX</strong></span> <span style="color:#FF806A">Neon</span> <span style="color:#FFAB6A">Pro</span>
+# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF806A">Neon</span> <span style="color:#FFAB6A">Pro</span>
 
 ## A THEME WHICH FOCUSES ON <span class='pink'>CLEAR & BEAUTIFUL COLORS</span>
 
@@ -68,7 +68,9 @@ If you can't see the colors in this table (*if it just looks like weird codes*),
 <br>
 <br>
 
-<span style="color:#8085FF; font-size:3em"><strong>Enjoy!</strong></span>
+
+# <span style="color:#8085FF">Enjoy!</span>
+
 
 <br>
 <br>
