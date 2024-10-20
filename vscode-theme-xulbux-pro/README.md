@@ -16,7 +16,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-If you can't see the coloured text in this table, take a look at the [table with just the color names](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
+If you can't see the coloured text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
 
 |                  XulbuX Neon                  |              XulbuX Neon Pro              |
 |                      :--:                     |                   :--:                    |
