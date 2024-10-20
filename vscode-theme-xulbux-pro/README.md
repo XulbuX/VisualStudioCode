@@ -16,20 +16,20 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-If you can't see the colors in this table (*if it just looks like weird codes*), see the [table with just the color names](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
+If you can't see the coloured text in this table, take a look at the [table with just the color names](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
 
-|             XulbuX Neon              |         XulbuX Neon Pro          |
-|                 :--:                 |              :--:                |
-| $\color{#FF4D9A}\textsf{rose}$       | $\color{#FF606A}\textsf{red}$    |
-| $\color{#FF65CC}\textsf{hot-pink}$   | $\color{#FF806A}\textsf{orange}$ |
-| $\color{#E565FF}\textsf{helitrope}$  | $\color{#FFAB6A}\textsf{gold}$   |
-| $\color{#9AFFB0}\textsf{mint}$       | $\color{#2BFF9A}\textsf{green}$  |
-| $\color{#2BFFAB}\textsf{neon green}$ | $\color{#41F1C2}\textsf{teal}$   |
-| $\color{#55FFEF}\textsf{cyan}$       | $\color{#77FFEF}\textsf{cyan}$   |
-| $\color{#60AAFF}\textsf{blue}$       | $\color{#60AAFF}\textsf{blue}$   |
-| $\color{#7075FF}\textsf{xulbux}$     | $\color{#8085FF}\textsf{xulbux}$ |
-| $\color{#AC80FF}\textsf{purple}$     | $\color{#AC80FF}\textsf{purple}$ |
-| $\color{#FC61EF}\textsf{pink}$       | $\color{#EE60BB}\textsf{pink}$   |
+|                  XulbuX Neon                  |              XulbuX Neon Pro              |
+|                      :--:                     |                   :--:                    |
+| <span style="color:#FF4D9A">rose</span>       | <span style="color:#FF606A">red</span>    |
+| <span style="color:#FF65CC">hot-pink</span>   | <span style="color:#FF806A">orange</span> |
+| <span style="color:#E565FF">helitrope</span>  | <span style="color:#FFAB6A">gold</span>   |
+| <span style="color:#9AFFB0">mint</span>       | <span style="color:#2BFF9A">green</span>  |
+| <span style="color:#2BFFAB">neon green</span> | <span style="color:#41F1C2">teal</span>   |
+| <span style="color:#55FFEF">cyan</span>       | <span style="color:#77FFEF">cyan</span>   |
+| <span style="color:#60AAFF">blue</span>       | <span style="color:#60AAFF">blue</span>   |
+| <span style="color:#7075FF">xulbux</span>     | <span style="color:#8085FF">xulbux</span> |
+| <span style="color:#AC80FF">purple</span>     | <span style="color:#AC80FF">purple</span> |
+| <span style="color:#FC61EF">pink</span>       | <span style="color:#EE60BB">pink</span>   |
 
 <br>
 
