@@ -39,15 +39,15 @@ If you can't see the coloured text in this table, take a look at the [colors use
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="400" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="502" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="532" height="auto" align="center"></img><br><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br><br>
 
 
 
@@ -55,15 +55,15 @@ If you can't see the coloured text in this table, take a look at the [colors use
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="400" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="502" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="532" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br>
 
 <br>
 <br>
