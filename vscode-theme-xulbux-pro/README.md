@@ -39,15 +39,15 @@ If you can't see the coloured text in this table, take a look at the [colors use
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="auto" height="200" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="400" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="auto" height="200" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="502" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="auto" height="200" align="center"></img><br><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="532" height="auto" align="center"></img><br><br>
 
 
 
@@ -55,15 +55,15 @@ If you can't see the coloured text in this table, take a look at the [colors use
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="auto" height="200" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="400" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="auto" height="200" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="502" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="auto" height="200" align="center"></img><br>
+<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="532" height="auto" align="center"></img><br>
 
 <br>
 <br>
@@ -89,26 +89,32 @@ for IDX in range(10,0,-1):
 **JAVA**
 
 ```java
-package preview.code;
-public class ex {
-    public static void main(String [] args) {
-      int k;
-      for (k=10; k>=1; k--) {
-        System.out.println(k);
-      }
+import java.util.Random;
+
+public class Example {
+  public static void main(String[] args) {
+    Random random = new Random();
+    for (int IDX = 10; IDX > 0; --IDX) {
+      int x = random.nextInt(10) + 1 + IDX;
+      System.out.println("NUMBER: " + x);
     }
+  }
 }
 ```
 
 **C++**
 
 ```cpp
-using namespace std;
 #include <iostream>
-main() {
-  int k;
-  for (k=10; k>=1; k--) {
-    cout << k << endl;
+#include <cstdlib>
+#include <ctime>
+
+int main() {
+  std::srand(std::time(0));
+  for (int IDX = 10; IDX > 0; --IDX) {
+    int x = std::rand() % 10 + 1 + IDX;
+    std::cout << "NUMBER: " << x << std::endl;
   }
+  return 0;
 }
 ```
