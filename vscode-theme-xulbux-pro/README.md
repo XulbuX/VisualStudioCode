@@ -2,7 +2,7 @@
 
 ## A THEME WHICH FOCUSES ON <span style="color:#8085FF">CLEAR SYNTAX</span> AND <span style="color:#8085FF">BEAUTIFUL COLORS</span>
 
-This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. [view on GitHub](https://github.com/XulbuX-dev/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)
+This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. [View on GitHub](https://github.com/XulbuX-dev/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)
 
 > To get a better feeling of how the themes look on the code, continue at the [THEME PREVIEWS](#previews).
 
