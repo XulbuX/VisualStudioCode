@@ -12,4 +12,4 @@ A theme extension, including two dark-themes, which mainly focus on clear syntax
 To lear more about this extension, see the [`README.md`](./vscode-theme-xulbux-pro/README.md).
 
 ### XulbuX Extensions Pack
-...
+An extension pack with all the extensions I use on a daily basis and are really useful to me.
