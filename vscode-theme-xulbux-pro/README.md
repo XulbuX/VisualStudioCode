@@ -16,13 +16,13 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-If you can't see the coloured text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
+If you can't see the colored text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
 
 |                  XulbuX Neon                  |              XulbuX Neon Pro              |
 |                      :--:                     |                   :--:                    |
 | <span style="color:#FF4D9A">rose</span>       | <span style="color:#FF606A">red</span>    |
 | <span style="color:#FF65CC">hot-pink</span>   | <span style="color:#FF806A">orange</span> |
-| <span style="color:#E565FF">helitrope</span>  | <span style="color:#FFAB6A">gold</span>   |
+| <span style="color:#E565FF">heliotrope</span> | <span style="color:#FFAB6A">gold</span>   |
 | <span style="color:#9AFFB0">mint</span>       | <span style="color:#2BFF9A">green</span>  |
 | <span style="color:#2BFFAB">neon green</span> | <span style="color:#41F1C2">teal</span>   |
 | <span style="color:#55FFEF">cyan</span>       | <span style="color:#77FFEF">cyan</span>   |
