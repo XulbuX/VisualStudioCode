@@ -3,7 +3,7 @@
   "displayName": "XulbuX Extension Pack",
   "description": "A collection of my essential VSCode extensions",
   "publisher": "xulbux",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -52,6 +52,7 @@
     "m1guelpf.better-pest",
     "mark-wiemer.vscode-autohotkey-plus-plus",
     "mhutchie.git-graph",
+    "minecraftcommands.syntax-mcfunction",
     "mintlify.document",
     "moyu.snapcode",
     "ms-python.black-formatter",
@@ -75,9 +76,11 @@
     "redhat.vscode-yaml",
     "ritwickdey.liveserver",
     "slevesque.shader",
+    "spgoding.datapack-language-server",
     "streetsidesoftware.code-spell-checker",
     "tamasfe.even-better-toml",
     "tion.evenbettercomments",
+    "tobysmith568.run-in-powershell",
     "twxs.cmake",
     "tyriar.windows-terminal",
     "vadimcn.vscode-lldb",
@@ -93,6 +96,7 @@
     "waifuproject.icns-preview",
     "whatwedo.twig",
     "xirider.livecode",
+    "xteal.mcmeta",
     "xulbux.theme-xulbux-neon-pro"
   ],
   "__metadata": {
