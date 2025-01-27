@@ -2,7 +2,7 @@
 
 ## A THEME WHICH FOCUSES ON <span style="color:#8085FF">CLEAR SYNTAX</span> AND <span style="color:#8085FF">BEAUTIFUL COLORS</span>
 
-This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. [View on GitHub](https://github.com/XulbuX-dev/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)
+This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. [View on GitHub](https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)
 
 > To get a better feeling of how the themes look on the code, continue at the [THEME PREVIEWS](#previews).
 
@@ -16,7 +16,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-If you can't see the colored text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
+If you can't see the colored text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
 
 |                  XulbuX Neon                  |              XulbuX Neon Pro              |
 |                      :--:                     |                   :--:                    |
@@ -39,15 +39,15 @@ If you can't see the colored text in this table, take a look at the [colors used
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br><br>
 
 
 
@@ -55,15 +55,15 @@ If you can't see the colored text in this table, take a look at the [colors used
 
 > **PYTHON**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="https://github.com/XulbuX-dev/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br>
+<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br>
 
 <br>
 <br>
