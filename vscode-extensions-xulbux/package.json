@@ -3,7 +3,7 @@
   "displayName": "XulbuX Extension Pack",
   "description": "A collection of my essential VSCode extensions",
   "publisher": "xulbux",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -46,6 +46,7 @@
     "junstyle.php-cs-fixer",
     "kevinrose.vsc-python-indent",
     "leonkohli.snapsource",
+    "leosj29.bash-sh-runner",
     "littlefoxteam.vscode-python-test-adapter",
     "lovebird.better-comments-enhanced",
     "ltex-plus.vscode-ltex-plus",
