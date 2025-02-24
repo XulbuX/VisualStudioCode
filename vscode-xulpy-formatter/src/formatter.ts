@@ -25,13 +25,13 @@ export class PythonFormatter {
 
   private formatLine(line: string, maxLength: number): string {
     let formatted = line;
-    // Remove trailing whitespace
+    // REMOVE TRAILING WHITESPACE
     formatted = formatted.trimEnd();
-    // Add space after comma
+    // ADD SPACE AFTER COMMA
     formatted = formatted.replace(/,([^\s])/g, ', $1');
-    // Add spaces around operators
+    // ADD SPACES AROUND OPERATORS
     formatted = formatted.replace(/([^\s=!<>])([=!<>]+)([^\s=])/g, '$1 $2 $3');
-    // Handle long lines
+    // HANDLE LONG LINES
     if (formatted.length > maxLength) {
       formatted = this.breakLongLine(formatted, maxLength);
     }
@@ -41,7 +41,7 @@ export class PythonFormatter {
   private breakLongLine(line: string, maxLen: number): string {
     if (line.length > maxLen) {
       if (line.includes('(')) {
-        // Break after opening parenthesis
+        // BREAK AFTER OPENING PARENTHESIS
         const parts = line.split('(');
         return `${parts[0]}(\n    ${parts[1]}`;
       }

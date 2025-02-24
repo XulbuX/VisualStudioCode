@@ -14,8 +14,8 @@ export function activate(context: vscode.ExtensionContext) {
   // REGISTER FORMAT ON PASTE IF ENABLED
   if (vscode.workspace.getConfiguration('customPythonFormatter').get('formatOnPaste')) {
     context.subscriptions.push(
-      vscode.workspace.onDidPaste(async (e) => {
-        if (e.document.languageId === 'python') {
+      vscode.workspace.onDidChangeTextDocument(async (e) => {
+        if (e.document.languageId === 'python' && e.contentChanges.some(change => change.text.length > 1)) {
           await vscode.commands.executeCommand('editor.action.formatDocument');
         }
       })
