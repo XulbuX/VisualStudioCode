@@ -5,10 +5,10 @@ export function activate(context: vscode.ExtensionContext) {
   const formatter = new PythonFormatter();
 
   // REGISTER THE FORMATTER
-  let disposable = vscode.languages.registerDocumentFormattingEditProvider('python', {
+  const disposable = vscode.languages.registerDocumentFormattingEditProvider('python', {
     provideDocumentFormattingEdits(document: vscode.TextDocument): vscode.TextEdit[] {
       return formatter.format(document);
-    }
+    },
   });
 
   // REGISTER FORMAT ON PASTE IF ENABLED
@@ -18,7 +18,7 @@ export function activate(context: vscode.ExtensionContext) {
         if (e.document.languageId === 'python' && e.contentChanges.some(change => change.text.length > 1)) {
           await vscode.commands.executeCommand('editor.action.formatDocument');
         }
-      })
+      }),
     );
   }
 
@@ -28,10 +28,10 @@ export function activate(context: vscode.ExtensionContext) {
       vscode.workspace.onWillSaveTextDocument((event) => {
         if (event.document.languageId === 'python') {
           event.waitUntil(
-            vscode.commands.executeCommand('editor.action.formatDocument')
+            vscode.commands.executeCommand('editor.action.formatDocument'),
           );
         }
-      })
+      }),
     );
   }
 

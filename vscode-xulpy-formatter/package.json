@@ -1,13 +1,10 @@
 {
+  "publisher": "xulbux",
   "name": "xulpy-formatter",
   "displayName": "XulPy",
+  "type": "module",
+  "version": "0.0.1",
   "description": "A Python formatter that combines the rules of PEP with style!",
-  "publisher": "xulbux",
-  "version": "0.0.4",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "icon": "icons/XulbuX.png",
   "author": {
     "name": "XulbuX",
     "email": "xulbux.real@gmail.com"
@@ -17,10 +14,14 @@
     "type": "git"
   },
   "categories": ["Formatters"],
+  "main": "./out/extension.js",
+  "icon": "icons/XulbuX.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
   "activationEvents": [
     "onLanguage:python"
   ],
-  "main": "./out/extension.js",
   "contributes": {
     "configuration": {
       "title": "Custom Python Formatter",
@@ -47,13 +48,13 @@
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
-    "lint": "eslint . --ext .ts,.js",
-    "lint:fix": "eslint . --ext .ts,.js --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@types/vscode": "^1.87.0",
     "@antfu/eslint-config": "^2.8.3",
     "@types/node": "^20.11.30",
+    "@types/vscode": "^1.87.0",
     "@typescript-eslint/eslint-plugin": "^7.3.1",
     "@typescript-eslint/parser": "^7.3.1",
     "@unocss/eslint-config": "^0.58.5",

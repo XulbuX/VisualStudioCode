@@ -14,7 +14,7 @@ export class PythonFormatter {
     for (let i = 0; i < document.lineCount; i++) {
       const line = document.lineAt(i);
       const formatted = this.formatLine(line.text, maxLineLength);
-      
+
       if (formatted !== line.text) {
         edits.push(vscode.TextEdit.replace(line.range, formatted));
       }
@@ -28,7 +28,7 @@ export class PythonFormatter {
     // REMOVE TRAILING WHITESPACE
     formatted = formatted.trimEnd();
     // ADD SPACE AFTER COMMA
-    formatted = formatted.replace(/,([^\s])/g, ', $1');
+    formatted = formatted.replace(/,(\S)/g, ', $1');
     // ADD SPACES AROUND OPERATORS
     formatted = formatted.replace(/([^\s=!<>])([=!<>]+)([^\s=])/g, '$1 $2 $3');
     // HANDLE LONG LINES
