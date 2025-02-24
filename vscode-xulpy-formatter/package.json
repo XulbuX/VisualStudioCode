@@ -1,7 +1,7 @@
 {
   "name": "xulpy-formatter",
   "displayName": "XulPy",
-  "description": "A better Python formatter",
+  "description": "A Python formatter that combines the rules of PEP with style!",
   "publisher": "xulbux",
   "version": "0.0.4",
   "engines": {
