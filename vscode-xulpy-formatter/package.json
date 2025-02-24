@@ -1,0 +1,71 @@
+{
+  "name": "xulpy-formatter",
+  "displayName": "XulPy",
+  "description": "A better Python formatter",
+  "publisher": "xulbux",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "icons/XulbuX.png",
+  "author": {
+    "name": "XulbuX",
+    "email": "xulbux.real@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/XulbuX/VisualStudioCode/vscode-xulpy-formatter",
+    "type": "git"
+  },
+  "categories": ["Formatters"],
+  "activationEvents": [
+    "onLanguage:python"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "configuration": {
+      "title": "Custom Python Formatter",
+      "properties": {
+        "customPythonFormatter.formatOnSave": {
+          "type": "boolean",
+          "default": true,
+          "description": "Format Python files on save"
+        },
+        "customPythonFormatter.formatOnPaste": {
+          "type": "boolean",
+          "default": true,
+          "description": "Format Python files on paste"
+        },
+        "customPythonFormatter.maxLineLength": {
+          "type": "number",
+          "default": 127,
+          "description": "Maximum line length"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0",
+    "@antfu/eslint-config": "^3.16.0",
+    "@types/node": "^22.12.0",
+    "@unocss/eslint-config": "^0.65.4",
+    "@unocss/eslint-plugin": "^0.65.4",
+    "eslint": "^9.19.0",
+    "typescript": "^5.1.3"
+  },
+  "__metadata": {
+    "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
+    "publisherId": "77f5e7c0-42af-4d80-ab24-d9657bfebe93",
+    "publisherDisplayName": "XulbuX",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1710139219097,
+    "pinned": false
+  }
+}
