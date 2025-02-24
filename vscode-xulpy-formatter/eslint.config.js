@@ -1,7 +1,7 @@
 import antfu from '@antfu/eslint-config';
 
 export default antfu({
-  ignores: ['*.json', 'icons/**', 'node_modules/**', 'packages/**', 'package.json', 'package-lock.json'],
+  ignores: ['icons/**', 'node_modules/**', 'packages/**', 'package-lock.json'],
   rules: {
     'antfu/if-newline': 'off',
     'n/prefer-global/process': ['error', 'always'],
