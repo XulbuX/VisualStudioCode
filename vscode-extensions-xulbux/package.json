@@ -1,7 +1,7 @@
 {
   "name": "xulbux-extension-pack",
   "displayName": "XulbuX Extension Pack",
-  "description": "A collection of my essential VSCode extensions",
+  "description": "A collection of my essential VSCode extensions.",
   "publisher": "xulbux",
   "version": "0.0.4",
   "engines": {
