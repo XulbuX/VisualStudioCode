@@ -16,12 +16,8 @@
   "categories": ["Formatters"],
   "main": "./out/extension.js",
   "icon": "icons/XulbuX.png",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "activationEvents": [
-    "onLanguage:python"
-  ],
+  "engines": { "vscode": "^1.85.0" },
+  "activationEvents": ["onLanguage:python"],
   "contributes": {
     "configuration": {
       "title": "Custom Python Formatter",

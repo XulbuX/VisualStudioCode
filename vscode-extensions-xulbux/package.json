@@ -4,9 +4,7 @@
   "description": "A collection of my essential VSCode extensions.",
   "publisher": "xulbux",
   "version": "0.0.5",
-  "engines": {
-    "vscode": "^1.60.0"
-  },
+  "engines": { "vscode": "^1.60.0" },
   "icon": "icons/XulbuX.png",
   "author": {
     "name": "XulbuX",
