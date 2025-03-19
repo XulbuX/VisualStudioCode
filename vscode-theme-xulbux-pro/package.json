@@ -1,9 +1,9 @@
 {
   "name": "theme-xulbux-neon-pro",
   "displayName": "XulbuX Neon Pro",
-  "description": "A crisp dark-theme with powerful colors and very clear syntax highlighting.",
+  "description": "A crisp dark-theme with powerful, pretty colors and very clear syntax highlighting.",
   "publisher": "xulbux",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "engines": {
     "vscode": "^1.87.0"
   },
