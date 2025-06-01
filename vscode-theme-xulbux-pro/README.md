@@ -16,20 +16,18 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-If you can't see the colored text in this table, take a look at the [colors used in the theme](https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/ColorsUsedInTheme.md).
-
-|                  XulbuX Neon                  |              XulbuX Neon Pro              |
-|                      :--:                     |                   :--:                    |
-| <span style="color:#FF4D9A">rose</span>       | <span style="color:#FF606A">red</span>    |
-| <span style="color:#FF65CC">hot-pink</span>   | <span style="color:#FF806A">orange</span> |
-| <span style="color:#E565FF">heliotrope</span> | <span style="color:#FFAB6A">gold</span>   |
-| <span style="color:#9AFFB0">mint</span>       | <span style="color:#2BFF9A">green</span>  |
-| <span style="color:#2BFFAB">neon green</span> | <span style="color:#41F1C2">teal</span>   |
-| <span style="color:#55FFEF">cyan</span>       | <span style="color:#77FFEF">cyan</span>   |
-| <span style="color:#60AAFF">blue</span>       | <span style="color:#60AAFF">blue</span>   |
-| <span style="color:#7075FF">xulbux</span>     | <span style="color:#8085FF">xulbux</span> |
-| <span style="color:#AC80FF">purple</span>     | <span style="color:#AC80FF">purple</span> |
-| <span style="color:#FC61EF">pink</span>       | <span style="color:#EE60BB">pink</span>   |
+|                          XulbuX Neon                           |                      XulbuX Neon Pro                       |
+|                              :--:                              |                           :--:                             |
+| ![](https://img.shields.io/badge/rose-FF4D9A?style=for-the-badge)       | ![](https://img.shields.io/badge/red-FF606A?style=for-the-badge)    |
+| ![](https://img.shields.io/badge/hot_pink-FF65CC?style=for-the-badge)   | ![](https://img.shields.io/badge/orange-FF806A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/heliotrope-E565FF?style=for-the-badge) | ![](https://img.shields.io/badge/gold-FFAB6A?style=for-the-badge)   |
+| ![](https://img.shields.io/badge/mint-9AFFB0?style=for-the-badge)       | ![](https://img.shields.io/badge/green-2BFF9A?style=for-the-badge)  |
+| ![](https://img.shields.io/badge/neon_green-2BFFAB?style=for-the-badge) | ![](https://img.shields.io/badge/teal-41F1C2?style=for-the-badge)   |
+| ![](https://img.shields.io/badge/cyan-55FFEF?style=for-the-badge)       | ![](https://img.shields.io/badge/cyan-77FFEF?style=for-the-badge)   |
+| ![](https://img.shields.io/badge/blue-60AAFF?style=for-the-badge)       | ![](https://img.shields.io/badge/blue-60AAFF?style=for-the-badge)   |
+| ![](https://img.shields.io/badge/xulbux-7075FF?style=for-the-badge)     | ![](https://img.shields.io/badge/xulbux-8085FF?style=for-the-badge) |
+| ![](https://img.shields.io/badge/purple-AC80FF?style=for-the-badge)     | ![](https://img.shields.io/badge/purple-AC80FF?style=for-the-badge) |
+| ![](https://img.shields.io/badge/pink-FC61EF?style=for-the-badge)       | ![](https://img.shields.io/badge/pink-EE60BB?style=for-the-badge)   |
 
 <br>
 
