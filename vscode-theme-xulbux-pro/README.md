@@ -16,8 +16,8 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 # COLORS
 
-|                          XulbuX Neon                           |                      XulbuX Neon Pro                       |
-|                              :--:                              |                           :--:                             |
+|                               XulbuX Neon                               |                           XulbuX Neon Pro                           |
+|                                   :--:                                  |                                :--:                                 |
 | ![](https://img.shields.io/badge/rose-FF4D9A?style=for-the-badge)       | ![](https://img.shields.io/badge/red-FF606A?style=for-the-badge)    |
 | ![](https://img.shields.io/badge/hot_pink-FF65CC?style=for-the-badge)   | ![](https://img.shields.io/badge/orange-FF806A?style=for-the-badge) |
 | ![](https://img.shields.io/badge/heliotrope-E565FF?style=for-the-badge) | ![](https://img.shields.io/badge/gold-FFAB6A?style=for-the-badge)   |
