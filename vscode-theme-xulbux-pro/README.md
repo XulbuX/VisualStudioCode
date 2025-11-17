@@ -1,4 +1,4 @@
-# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#55FFEF">Neon</span> <span style="color:#FF606A">PRO</span>
+# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#55FFEF">Neon</span> <span style="color:#FF606A">PRO</span> <img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true">
 
 ## A THEME WHICH FOCUSES ON <span style="color:#FF806A">CLEAR SYNTAX</span> AND <span style="color:#FF806A">BEAUTIFUL COLORS</span>
 
@@ -40,24 +40,24 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 ### **XulbuX Neon**
 
 > **PYTHON**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center">
 
 > **JAVA**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center">
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center">
 
 ### **XulbuX PRO**
 
 > **PYTHON**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center">
 
 > **JAVA**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center">
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center">
 
 <br>
 
