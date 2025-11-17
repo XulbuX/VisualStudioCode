@@ -1,22 +1,24 @@
-# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF806A">Neon</span> <span style="color:#FFAB6A">Pro</span>
+# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#55FFEF">Neon</span> <span style="color:#FF606A">PRO</span>
 
-## A THEME WHICH FOCUSES ON <span style="color:#8085FF">CLEAR SYNTAX</span> AND <span style="color:#8085FF">BEAUTIFUL COLORS</span>
+## A THEME WHICH FOCUSES ON <span style="color:#FF806A">CLEAR SYNTAX</span> AND <span style="color:#FF806A">BEAUTIFUL COLORS</span>
 
-This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. [View on GitHub](https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)
+This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. **[View on GitHub](https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)**
 
-> To get a better feeling of how the themes look on the code, continue at the [THEME PREVIEWS](#previews).
+> To get a better feeling of how the themes look on the code, continue at the **[THEME PREVIEWS](#previews)**.
 
-**Apply one of the themes:**
+**Apply one of the Themes:**
 
-* Open the command input: `Cmd+Shift+K` on macOS or `Ctrl+Shift+K` on Windows and Linux or `F1` in general
+* Open the command input by pressing `Ctrl(⌘) + Shift + K` or the `F1` key.
 * Enter «*color theme*» in the input field and click on `Preferences: Color Theme`.
-* Search for the themes `XulbuX Neon` or `XulbuX Neon Pro` and select one of them by clicking on it.
+* Search for the themes `XulbuX Neon` or `XulbuX PRO` and click on one of them to apply.
 
 <br>
 
-# COLORS
+<span id="colors" />
 
-|                               XulbuX Neon                               |                           XulbuX Neon Pro                           |
+# Theme Colors
+
+|                                XulbuX Neon                              |                             XulbuX PRO                              |
 |                                   :--:                                  |                                :--:                                 |
 | ![](https://img.shields.io/badge/rose-FF4D9A?style=for-the-badge)       | ![](https://img.shields.io/badge/red-FF606A?style=for-the-badge)    |
 | ![](https://img.shields.io/badge/hot_pink-FF65CC?style=for-the-badge)   | ![](https://img.shields.io/badge/orange-FF806A?style=for-the-badge) |
@@ -31,51 +33,38 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 <br>
 
-# <span id="previews">THEME PREVIEWS</span>
+<span id="previews" />
 
-### <b>XulbuX Neon:</b>
+# Theme Previews
 
-> **PYTHON**
-
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
-
-> **JAVA**
-
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
-
-> **C++**
-
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br><br>
-
-
-
-### <b>XulbuX Neon Pro:</b>
+### **XulbuX Neon**
 
 > **PYTHON**
-
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img>
 
 > **JAVA**
-
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img><br>
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img>
 
 > **C++**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img>
 
-<img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img><br>
+### **XulbuX PRO**
+
+> **PYTHON**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center"></img>
+
+> **JAVA**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center"></img>
+
+> **C++**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center"></img>
 
 <br>
-<br>
 
-
-# <span style="color:#8085FF">Enjoy!</span>
-
-
-<br>
-<br>
-
-## Code used for theme previews
+## Code used for Theme Previews
 
 **PYTHON**
+
 ```python
 import random
 
@@ -116,3 +105,10 @@ int main() {
   return 0;
 }
 ```
+
+<br>
+<br>
+<br>
+
+----------------------------------------------------------------------------------------------------------------------------------
+### <span style="color:#9095FF">✨ Always creating more cool stuff for you! —⠀[**@XulbuX**](https://github.com/XulbuX) ✨</span>
