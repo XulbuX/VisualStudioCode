@@ -1,6 +1,6 @@
-# <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#55FFEF">Neon</span> <span style="color:#FF606A">PRO</span> <img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true">
+# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true">
 
-## A THEME WHICH FOCUSES ON <span style="color:#FF806A">CLEAR SYNTAX</span> AND <span style="color:#FF806A">BEAUTIFUL COLORS</span>
+## A theme which focuses on <span style="color:#4DF1C2">CLEAR SYNTAX</span> and <span style="color:#4DF1C2">BEAUTIFUL COLORS</span>.
 
 This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting. **[View on GitHub](https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro)**
 
