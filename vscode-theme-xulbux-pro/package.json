@@ -27,6 +27,11 @@
         "label": "XulbuX PRO",
         "uiTheme": "vs-dark",
         "path": "./themes/xulbux-pro.json"
+      },
+      {
+        "label": "XulbuX PRO (Legacy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/legacy/xulbux-pro.json"
       }
     ]
   },

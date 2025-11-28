@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "VisualStudioCode_8b4c580d"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/dist/apps/hub-issues/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/dist/apps/hub-issues/index.html"
+        }
+    ]
+}

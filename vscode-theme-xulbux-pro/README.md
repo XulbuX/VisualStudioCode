@@ -39,25 +39,45 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 ### **XulbuX Neon**
 
-> **PYTHON**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center">
+> **Python**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-neon.png?raw=true" alt="Python – XulbuX Neon – Syntax Highlighting" width="288">
 
-> **JAVA**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center">
+> **Java**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-neon.png?raw=true" alt="Java – XulbuX Neon – Syntax Highlighting" width="352">
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center">
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-neon.png?raw=true" alt="C++ – XulbuX Neon – Syntax Highlighting" width="376">
+
+> **Vue.js**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-neon.png?raw=true" alt="Vue.js – XulbuX Neon – Syntax Highlighting" width="440">
 
 ### **XulbuX PRO**
 
-> **PYTHON**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/python_neon-pro.png?raw=true" alt="Python Code Preview" width="300" height="auto" align="center">
+> **Python**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" width="288">
 
-> **JAVA**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_neon-pro.png?raw=true" alt="Java Code Preview" width="377" height="auto" align="center">
+> **Java**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" width="352">
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_neon-pro.png?raw=true" alt="C++ Code Preview" width="399" height="auto" align="center">
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" width="376">
+
+> **Vue.js**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" width="440">
+
+### **XulbuX PRO (Legacy)**
+
+> **Python**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro_legacy.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" width="288">
+
+> **Java**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro_legacy.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" width="352">
+
+> **C++**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro_legacy.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" width="376">
+
+> **Vue.js**
+> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro_legacy.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" width="440">
 
 <br>
 
