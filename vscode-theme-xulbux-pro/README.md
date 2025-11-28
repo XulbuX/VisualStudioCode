@@ -1,18 +1,25 @@
-# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true">
+<span id="top" />
 
-## A theme which focuses on <span style="color:#4DF1C2">CLEAR SYNTAX</span> and <span style="color:#4DF1C2">BEAUTIFUL COLORS</span>.
+# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true"></a>
+
+## A theme which focuses on <span style="color:#B691FF">CLEAR SYNTAX</span> and <span style="color:#B691FF">BEAUTIFUL COLORS</span>.
 
 This VisualStudioCode extension contains three themes, which both try to make VSCode look good and do very clear syntax highlighting.
 
 > 🎨 To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
 
+
+<br>
 <br>
 
-### Apply a Theme ⚙️
 
-* Open the command input by pressing `Ctrl(⌘) + Shift + K` or the `F1` key.
-* Enter «*color theme*» in the input field and click on `Preferences: Color Theme`.
-* Search for the themes `XulbuX Neon` or `XulbuX PRO` and click on one of them to apply.
+## Apply a Theme ⚙️
+
+1. Open the command input by pressing `Ctrl(⌘) + Shift + K` or the `F1` key.
+
+2. Enter «*color theme*» in the input field and click on `Preferences: Color Theme`.
+
+3. Search for the themes `XulbuX Neon` or `XulbuX PRO` and click on one of them to apply.
 
 
 <br>
@@ -100,48 +107,48 @@ This VisualStudioCode extension contains three themes, which both try to make VS
 ### XulbuX Neon
 
 > **Python**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-neon.png?raw=true" alt="Python – XulbuX Neon – Syntax Highlighting" height="204" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-neon.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-neon.png?raw=true" alt="Python – XulbuX Neon – Syntax Highlighting" height="204" align="center"></a>
 
 > **Java**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-neon.png?raw=true" alt="Java – XulbuX Neon – Syntax Highlighting" height="312" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-neon.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-neon.png?raw=true" alt="Java – XulbuX Neon – Syntax Highlighting" height="312" align="center"></a>
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-neon.png?raw=true" alt="C++ – XulbuX Neon – Syntax Highlighting" height="330" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-neon.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-neon.png?raw=true" alt="C++ – XulbuX Neon – Syntax Highlighting" height="330" align="center"></a>
 
 > **Vue.js**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-neon.png?raw=true" alt="Vue.js – XulbuX Neon – Syntax Highlighting" height="276" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-neon.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-neon.png?raw=true" alt="Vue.js – XulbuX Neon – Syntax Highlighting" height="276" align="center"></a>
 
 <span id="preview-xulbux-pro" />
 
 ### XulbuX PRO
 
 > **Python**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center"></a>
 
 > **Java**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center"></a>
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center"></a>
 
 > **Vue.js**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center"></a>
 
 <span id="preview-xulbux-pro-legacy" />
 
 ### XulbuX PRO (Legacy)
 
 > **Python**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro_legacy.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro_legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro_legacy.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center"></a>
 
 > **Java**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro_legacy.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro_legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro_legacy.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center"></a>
 
 > **C++**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro_legacy.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro_legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro_legacy.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center"></a>
 
 > **Vue.js**
-> <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro_legacy.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center">
+> <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro_legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro_legacy.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center"></a>
 
 
 <br>
