@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "engines": { "vscode": "^1.87.0" },
   "name": "theme-xulbux-neon-pro",
   "displayName": "XulbuX Neon Pro",
@@ -17,18 +17,18 @@
   },
   "categories": ["Themes", "Visualization"],
   "contributes": {
-  "themes": [
-    {
-      "label": "XulbuX Neon",
-      "uiTheme": "vs-dark",
-      "path": "./themes/xulbux-neon.json"
-    },
-    {
-      "label": "XulbuX PRO",
-      "uiTheme": "vs-dark",
-      "path": "./themes/xulbux-pro.json"
-    }
-  ]
+    "themes": [
+      {
+        "label": "XulbuX Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xulbux-neon.json"
+      },
+      {
+        "label": "XulbuX PRO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xulbux-pro.json"
+      }
+    ]
   },
   "__metadata": {
     "id": "39cf6240-75d9-4602-97ff-1c0b1e355e94",
