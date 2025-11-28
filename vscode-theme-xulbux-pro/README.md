@@ -2,13 +2,13 @@
 
 ## A theme which focuses on <span style="color:#4DF1C2">CLEAR SYNTAX</span> and <span style="color:#4DF1C2">BEAUTIFUL COLORS</span>.
 
-This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting.
+This VisualStudioCode extension contains three themes, which both try to make VSCode look good and do very clear syntax highlighting.
 
-> To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
+> 🎨 To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
 
 <br>
 
-#### Apply a Theme:
+### Apply a Theme ⚙️
 
 * Open the command input by pressing `Ctrl(⌘) + Shift + K` or the `F1` key.
 * Enter «*color theme*» in the input field and click on `Preferences: Color Theme`.
@@ -21,7 +21,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 <span id="colors" />
 
-## Theme Info
+## Theme Info 📋
 
 <table>
   <thead>
@@ -47,7 +47,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
         <img src="https://img.shields.io/badge/%23-FF79DE?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="right">❌ Not Optimized</td>
+      <td align="right">❌ Not Optimized</td>
     </tr>
     <tr>
       <td align="left"><a href="#preview-xulbux-pro"><strong>XulbuX PRO</strong></a></td>
@@ -64,10 +64,10 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
         <img src="https://img.shields.io/badge/%23-FF6BA4?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="left">✅ Optimized</td>
+      <td align="left">✅ Optimized</td>
     </tr>
     <tr>
-      <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO (<em>Legacy</em>)</b></strong></td>
+      <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO (Legacy)</b></strong></td>
       <td align="center">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF7069?style=for-the-badge">
@@ -81,7 +81,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
         <img src="https://img.shields.io/badge/%23-EE60BB?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="left">❌ Not Optimized</td>
+      <td align="left">❌ Not Optimized</td>
     </tr>
   </tbody>
 </table>
@@ -93,7 +93,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 <span id="previews" />
 
-## Theme Previews
+## Theme Previews ✨
 
 <span id="preview-xulbux-neon" />
 
@@ -129,7 +129,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 <span id="preview-xulbux-pro-legacy" />
 
-### XulbuX PRO (*Legacy*)
+### XulbuX PRO (Legacy)
 
 > **Python**
 > <img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro_legacy.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center">
