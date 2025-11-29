@@ -230,5 +230,5 @@ const randNum = () => Math.floor(Math.random() * 100);
 <br>
 
 
-----------------------------------------------------------------------------------------------------------------------------------
-### <span style="color:#9095FF">✨ Always creating more cool stuff for you! —⠀[**@XulbuX**](https://github.com/XulbuX) ✨</span>
+----------------------------------------------------------------------------------------------
+### ✨ Always creating more cool stuff for you! ✨ —⠀[**XulbuX**](https://github.com/XulbuX) 
