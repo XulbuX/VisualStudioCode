@@ -4,9 +4,12 @@
 
 ## A theme which focuses on <span style="color:#B691FF">CLEAR SYNTAX</span> and <span style="color:#B691FF">BEAUTIFUL COLORS</span>.
 
-This VisualStudioCode extension contains three themes, which both try to make VSCode look good and do very clear syntax highlighting.
+This VisualStudioCode extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
 
 > 🎨 To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
+
+Enjoying these themes? Have suggestions?<br>
+Please consider leaving a review on the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-neon-pro) or giving a ⭐ on [**GitHub**](https://github.com/XulbuX/VisualStudioCode).
 
 
 <br>
@@ -15,11 +18,11 @@ This VisualStudioCode extension contains three themes, which both try to make VS
 
 ## Apply a Theme ⚙️
 
-1. Open the command input by pressing `Ctrl(⌘) + Shift + K` or the `F1` key.
+1. Open the command input by pressing `Ctrl(⌘) + Shift + P` or the `F1` key.
 
-2. Enter «*color theme*» in the input field and click on `Preferences: Color Theme`.
+2. Type «*color theme*» in the input field and select `Preferences: Color Theme` from the list.
 
-3. Search for the themes `XulbuX Neon` or `XulbuX PRO` and click on one of them to apply.
+3. Search for `XulbuX Neon`, `XulbuX PRO` or `XulbuX PRO (Legacy)` and select one to apply it.
 
 
 <br>
@@ -33,9 +36,9 @@ This VisualStudioCode extension contains three themes, which both try to make VS
 <table>
   <thead>
     <tr>
-      <th>Theme</th>
-      <th>Main Colors</th>
-      <th>Fast Loading</th>
+      <th align="left">Theme</th>
+      <th align="left">Main Colors</th>
+      <th align="left">Fast Loading</th>
     </tr>
   </thead>
   <tbody>
@@ -58,7 +61,7 @@ This VisualStudioCode extension contains three themes, which both try to make VS
     </tr>
     <tr>
       <td align="left"><a href="#preview-xulbux-pro"><strong>XulbuX PRO</strong></a></td>
-      <td align="center">
+      <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF6B75?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-FF9770?style=for-the-badge">
@@ -74,8 +77,8 @@ This VisualStudioCode extension contains three themes, which both try to make VS
       <td align="left">✅ Optimized</td>
     </tr>
     <tr>
-      <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO (Legacy)</b></strong></td>
-      <td align="center">
+      <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO (Legacy)</strong></td>
+      <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF7069?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-FF806A?style=for-the-badge">
