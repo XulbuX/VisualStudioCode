@@ -1,6 +1,6 @@
 <span id="top" />
 
-# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true"></a>
+# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#00EDDF">Neon</span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true"></a>
 
 ### A theme which focuses on <span style="color:#B691FF">**CLEAR SYNTAX**</span> and <span style="color:#B691FF">**BEAUTIFUL COLORS**</span>.
 
