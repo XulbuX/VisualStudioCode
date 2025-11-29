@@ -1,14 +1,17 @@
 <span id="top" />
 
-# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="40" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true"></a>
+# <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#6BFFF5">Neon</span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icons/theme-xulbux-pro.png?raw=true"></a>
 
 ## A theme which focuses on <span style="color:#B691FF">CLEAR SYNTAX</span> and <span style="color:#B691FF">BEAUTIFUL COLORS</span>.
 
-This VisualStudioCode extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
+This Visual Studio Code extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
 
 > 🎨 To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
 
-Enjoying these themes? Have suggestions?<br>
+<br>
+
+### **Enjoying these themes? Have suggestions?**
+
 Please consider leaving a review on the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-neon-pro) or giving a ⭐ on [**GitHub**](https://github.com/XulbuX/VisualStudioCode).
 
 
