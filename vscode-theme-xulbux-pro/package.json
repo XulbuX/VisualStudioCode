@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "engines": { "vscode": "^1.87.0" },
-  "name": "theme-xulbux-neon-pro",
-  "displayName": "XulbuX Neon Pro",
-  "description": "A crisp dark-theme with powerful, pretty colors and very clear syntax highlighting.",
+  "name": "theme-xulbux-pro",
+  "displayName": "XulbuX PRO",
+  "description": "Crisp dark-themes that use powerful colors and clear syntax highlighting.",
   "icon": "icons/theme-xulbux-pro.png",
   "sponsor": { "url": "https://github.com/sponsors/XulbuX" },
   "publisher": "xulbux",
@@ -19,19 +19,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "XulbuX Neon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/xulbux-neon.json"
-      },
-      {
         "label": "XulbuX PRO",
         "uiTheme": "vs-dark",
         "path": "./themes/xulbux-pro.json"
       },
       {
-        "label": "XulbuX PRO (Legacy)",
+        "label": "XulbuX PRO Legacy",
         "uiTheme": "vs-dark",
-        "path": "./themes/legacy/xulbux-pro.json"
+        "path": "./themes/xulbux-pro-legacy.json"
+      },
+      {
+        "label": "XulbuX VaporWave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xulbux-vaporwave.json"
       }
     ]
   },
