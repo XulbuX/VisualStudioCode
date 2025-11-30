@@ -147,7 +147,7 @@
     "editor.findMatchBorder": "#28FFE0",
     "editor.findMatchHighlightBackground": "#28FFE026",
     "editor.findMatchHighlightBorder": "#28FFE0",
-    "editor.findRangeHighlightBackground": "#28FFE00C",
+    "editor.findRangeHighlightBackground": "#28FFE026",
     "editor.findRangeHighlightBorder": "#0000",
     "editor.focusedStackFrameHighlightBackground": "#FBFCFF24",
     "editor.foldBackground": "#FBFCFF0C",
@@ -308,7 +308,7 @@
     "editorSuggestWidgetStatus.foreground": "#8085FF",
     "editorUnicodeHighlight.background": "#FF817050",
     "editorUnicodeHighlight.border": "#FF8170",
-    "editorUnnecessaryCode.opacity": "#000000A5",
+    "editorUnnecessaryCode.opacity": "#0009",
     "editorWarning.background": "#FFAC7050",
     "editorWarning.border": "#0000",
     "editorWarning.foreground": "#FFAC70",
@@ -334,15 +334,15 @@
     "focusBorder": "#404144",
     "foreground": "#DADBDE",
     "gitDecoration.addedResourceForeground": "#A8ABFF",
-    "gitDecoration.conflictingResourceForeground": "#F6A3FF",
+    "gitDecoration.conflictingResourceForeground": "#F27AFF",
     "gitDecoration.deletedResourceForeground": "#FFA599",
     "gitDecoration.ignoredResourceForeground": "#86878A",
-    "gitDecoration.modifiedResourceForeground": "#D4A8FF",
+    "gitDecoration.modifiedResourceForeground": "#E3A3FF",
     "gitDecoration.renamedResourceForeground": "#FFB499",
     "gitDecoration.stageDeletedResourceForeground": "#FFA599",
-    "gitDecoration.stageModifiedResourceForeground": "#D4A8FF",
+    "gitDecoration.stageModifiedResourceForeground": "#E3A3FF",
     "gitDecoration.submoduleResourceForeground": "#BEA8FF",
-    "gitDecoration.untrackedResourceForeground": "#BEA8FF",
+    "gitDecoration.untrackedResourceForeground": "#B0B1B4",
     "icon.foreground": "#8085FF",
     "inlineChat.background": "#1B1C1F",
     "inlineChat.border": "#353639",
@@ -428,13 +428,13 @@
     "mergeEditor.conflict.unhandledFocused.border": "#FF707C",
     "mergeEditor.conflict.unhandledUnfocused.border": "#FF707C",
     "mergeEditor.conflictingLines.background": "#F27AFF50",
-    "minimap.errorHighlight": "#FF707CA5",
+    "minimap.errorHighlight": "#FF707C",
     "minimap.findMatchHighlight": "#28FFE0FE",
     "minimap.foregroundOpacity": "#000C",
     "minimap.infoHighlight": "#8085FF",
     "minimap.selectionHighlight": "#FBFCFF24",
     "minimap.selectionOccurrenceHighlight": "#666769A5",
-    "minimap.warningHighlight": "#FFAC70A5",
+    "minimap.warningHighlight": "#FFAC70",
     "minimapGutter.addedBackground": "#8085FF",
     "minimapGutter.deletedBackground": "#FF707C",
     "minimapGutter.modifiedBackground": "#BD7DFF",
@@ -954,9 +954,7 @@
       }
     },
     {
-      "scope": [
-        "support.type",
-      ],
+      "scope": "support.type",
       "settings": {
         "foreground": "#FF96A2",
         "fontStyle": "italic"
@@ -1160,7 +1158,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#B7EDEB",
+        "foreground": "#B7EAED",
         "fontStyle": "italic"
       }
     },
