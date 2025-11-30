@@ -27,6 +27,10 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 
 3. Search for `XulbuX Neon`, `XulbuX PRO` or `XulbuX PRO (Legacy)` and select one to apply it.
 
+<br>
+
+> 💡 My personal recommendation is to use <span style="color:#FF9E6A">**XulbuX PRO**</span> for the best experience.
+
 
 <br>
 <br>
