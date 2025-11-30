@@ -163,8 +163,8 @@
     "editor.lineHighlightBorder": "#0000",
     "editor.linkedEditingBackground": "#353639",
     "editor.placeholder.foreground": "#666769",
-    "editor.rangeHighlightBackground": "#FBFCFF0F",
-    "editor.rangeHighlightBorder": "#FBFCFF0F",
+    "editor.rangeHighlightBackground": "#FBFCFF12",
+    "editor.rangeHighlightBorder": "#FBFCFF12",
     "editor.selectionBackground": "#FBFCFF16",
     "editor.selectionHighlightBackground": "#FBFCFF16",
     "editor.selectionHighlightBorder": "#0000",
@@ -174,7 +174,7 @@
     "editor.symbolHighlightBackground": "#FBFCFF16",
     "editor.wordHighlightBackground": "#FBFCFF16",
     "editor.wordHighlightBorder": "#0000",
-    "editor.wordHighlightStrongBackground": "#FBFCFF16",
+    "editor.wordHighlightStrongBackground": "#FBFCFF24",
     "editor.wordHighlightStrongBorder": "#0000",
     "editor.wordHighlightTextBackground": "#FBFCFF16",
     "editor.wordHighlightTextBorder": "#0000",
@@ -188,7 +188,7 @@
     "editorBracketHighlight.foreground4": "#FF70BF",
     "editorBracketHighlight.foreground5": "#FF7570",
     "editorBracketHighlight.foreground6": "#FF8D70",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#ff606A",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF5054",
     "editorBracketMatch.background": "#0000",
     "editorBracketMatch.border": "#666769",
     "editorBracketPairGuide.activeBackground1": "#8085FF25",
@@ -840,6 +840,7 @@
         "keyword.operator.type.annotation",
         "keyword.other.parenthesis.elm",
         "keyword.other.substitution",
+        "markup.hr.markdown",
         "markup.ignored punctuation.definition.ignored",
         "markup.ignored",
         "markup.untracked",
@@ -850,6 +851,7 @@
         "meta.delimiter.comma.js",
         "meta.function-call.method.without-arguments.js",
         "meta.function-call.without-arguments.js",
+        "meta.separator.markdown",
         "meta.type storage.modifier.array",
         "punctuation.accessor",
         "punctuation.definition.block",
@@ -859,6 +861,7 @@
         "punctuation.definition.group.end.ruby",
         "punctuation.definition.parameters.begin",
         "punctuation.definition.parameters.end",
+        "punctuation.definition.raw.markdown",
         "punctuation.definition.string.end.html source.css",
         "punctuation.definition.tag source",
         "punctuation.definition.tag",
@@ -889,6 +892,8 @@
         "comment entity.name.type",
         "comment keyword",
         "entity.name.tag.documentation",
+        "markup.fenced_code.block.markdown",
+        "markup.raw.block.markdown",
         "meta.annotation.rust keyword.operator",
         "meta.annotation.rust keyword",
         "meta.annotation.rust string",
@@ -924,6 +929,7 @@
         "entity.name.namespace",
         "entity.name.operator.custom-literal",
         "meta.object.member",
+        "meta.paragraph.markdown",
         "meta.type_params.rust",
         "punctuation.definition.group",
         "source.json meta.mapping.key string",
@@ -932,6 +938,7 @@
         "string.unquoted.label",
         "support.constant",
         "text.find-in-files",
+        "text.html.markdown",
         "text",
       ],
       "settings": {
@@ -1197,40 +1204,18 @@
     },
     {
       "scope": [
-        "constant.character.escape",
-        "constant.language",
-        "entity.name.type.class.generic",
-        "entity.name.type.class.templated",
-        "entity.name.type.namespace",
-        "meta.function-call.python meta.function-call.arguments.python",
-      ],
-      "settings": {
-        "foreground": "#BDC0FF"
-      }
-    },
-    {
-      "scope": [
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name",
-        "entity.other.inherited-class",
-        "entity.other.pseudo-class.css",
-        "entity.other.pseudo-element.css",
-        "storage.type",
-      ],
-      "settings": {
-        "foreground": "#BDC0FF",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [
         "comment keyword.codetag.notation",
         "entity.name.constant.preprocessor",
         "entity.name.constant",
         "entity.name.label",
         "entity.name.operator.custom-literal.number",
         "entity.other.git-status.hex",
+        "markup.inline.raw.string.markdown markup.underline.link.markdown",
+        "markup.underline.link.image.markdown",
+        "markup.underline.link.markdown",
         "meta.preprocessor",
+        "meta.tag string.quoted.double.html markup.underline.link.markdown",
+        "meta.tag.block.any.html markup.underline.link.markdown",
         "meta.type variable.other.readwrite",
         "meta.type variable",
         "source.git-show meta.diff.git-diff.header.extended.index.from-sha",
@@ -1239,6 +1224,7 @@
         "storage.class.restructuredtext.ref",
         "string",
         "support.constant.core.rust",
+        "text.html.markdown meta.paragraph.markdown meta.tag markup.underline.link",
         "token.info-token",
       ],
       "settings": {
@@ -1259,6 +1245,40 @@
       ],
       "settings": {
         "background": "#9098FF"
+      }
+    },
+    {
+      "scope": [
+        "constant.character.escape",
+        "constant.language",
+        "entity.name.type.class.generic",
+        "entity.name.type.class.templated",
+        "entity.name.type.namespace",
+        "markup.inline.raw.markdown",
+        "markup.inline.raw.string.markdown string.other.link.title.markdown",
+        "markup.inline.raw.string.markdown",
+        "meta.function-call.python meta.function-call.arguments.python",
+        "meta.tag string.other.link.title.markdown",
+        "string.other.link.description.markdown",
+        "string.other.link.description.title.markdown",
+        "string.other.link.title.markdown",
+      ],
+      "settings": {
+        "foreground": "#BDC0FF"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name",
+        "entity.other.inherited-class",
+        "entity.other.pseudo-class.css",
+        "entity.other.pseudo-element.css",
+        "storage.type",
+      ],
+      "settings": {
+        "foreground": "#BDC0FF",
+        "fontStyle": "italic"
       }
     },
     {
