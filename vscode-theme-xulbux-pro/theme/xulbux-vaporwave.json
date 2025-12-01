@@ -1,8 +1,9 @@
 {
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
   "name": "XulbuX VaporWave",
   "author": "XulbuX",
-  "type": "dark",
-  "$schema": "vscode://schemas/color-theme",
+  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
   "colors": {
     "actionBar.toggledBackground": "#505053",
     "activityBar.activeBorder": "#757575",
