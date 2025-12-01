@@ -1,37 +1,43 @@
 {
-  "version": "1.2.4",
-  "engines": { "vscode": "^1.87.0" },
   "name": "theme-xulbux-neon-pro",
+  "version": "1.2.4",
   "displayName": "Theme XulbuX PRO",
   "description": "Crisp dark-themes that use powerful colors and clear syntax highlighting.",
-  "icon": "icons/theme-xulbux-pro.png",
-  "sponsor": { "url": "https://github.com/sponsors/XulbuX" },
-  "publisher": "xulbux",
+  "icon": "icon.png",
   "author": {
     "name": "XulbuX",
     "email": "xulbux.real@gmail.com"
   },
+  "publisher": "xulbux",
+  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
+	"license": "MIT",
   "repository": {
     "url": "https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro",
     "type": "git"
   },
+  "bugs": {
+    "url": "https://github.com/XulbuX/VisualStudioCode/issues"
+  },
+  "sponsor": { "url": "https://github.com/sponsors/XulbuX" },
+  "engines": { "vscode": "^1.87.0" },
   "categories": ["Themes", "Visualization"],
+	"keywords": ["color-theme", "dark", "theme", "xulbux"],
   "contributes": {
     "themes": [
       {
         "label": "XulbuX PRO",
         "uiTheme": "vs-dark",
-        "path": "./themes/xulbux-pro.json"
+        "path": "./theme/xulbux-pro.json"
       },
       {
         "label": "XulbuX PRO Legacy",
         "uiTheme": "vs-dark",
-        "path": "./themes/xulbux-pro-legacy.json"
+        "path": "./theme/xulbux-pro-legacy.json"
       },
       {
         "label": "XulbuX VaporWave",
         "uiTheme": "vs-dark",
-        "path": "./themes/xulbux-vaporwave.json"
+        "path": "./theme/xulbux-vaporwave.json"
       }
     ]
   },
