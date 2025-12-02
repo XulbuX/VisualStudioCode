@@ -45,7 +45,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
     <tr>
       <th align="left">Theme</th>
       <th align="left">Main Colors</th>
-      <th align="left">Fast Loading</th>
+      <th align="left">Semantic Highlighting</th>
     </tr>
   </thead>
   <tbody>
@@ -55,16 +55,16 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF6B75?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-FF9770?style=for-the-badge">
-        <img src="https://img.shields.io/badge/%23-4DF1C2?style=for-the-badge">
+        <img src="https://img.shields.io/badge/%23-FFAC70?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-6BFFF5?style=for-the-badge">
-        <img src="https://img.shields.io/badge/%23-BDC0FF?style=for-the-badge">
+        <img src="https://img.shields.io/badge/%23-8CB9FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-9098FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-B691FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-D87BFF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-FF6BA4?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="left">✅ Optimized</td>
+      <td align="left">✅ Supported</td>
     </tr>
     <tr>
       <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO Legacy</strong></td>
@@ -81,7 +81,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
         <img src="https://img.shields.io/badge/%23-EE60BB?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="left">❌ Not Optimized</td>
+      <td align="left">❌ Not Supported</td>
     </tr>
     <tr>
       <td align="left"><a href="#preview-xulbux-vaporwave"><strong>XulbuX VaporWave</strong></a></td>
@@ -98,7 +98,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
         <img src="https://img.shields.io/badge/%23-FF79DE?style=for-the-badge">
         &nbsp;&nbsp;&nbsp;
       </td>
-      <td align="right">❌ Not Optimized</td>
+      <td align="left">❌ Not Supported</td>
     </tr>
   </tbody>
 </table>

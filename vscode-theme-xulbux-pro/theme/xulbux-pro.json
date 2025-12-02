@@ -1005,6 +1005,14 @@
     },
     {
       "scope": [
+        "source.ignore",
+      ],
+      "settings": {
+        "foreground": "#FF828A"
+      }
+    },
+    {
+      "scope": [
         "comment.git-status.header.remote",
         "entity.name.lifetime.rust",
         "keyword.control.rust",
@@ -1030,6 +1038,7 @@
     },
     {
       "scope": [
+        "meta.selector",
         "parameters variable.function",
         "variable.other.property.static",
         "variable.other.property",
@@ -1237,9 +1246,12 @@
       "scope": [
         "constant.character.escape",
         "constant.language",
+        "entity.name.section.group-title",
         "entity.name.type.namespace.php",
         "meta.namespace.php entity.name.type.namespace.php",
+        "meta.property-value",
         "meta.tag string.other.link.title.markdown",
+        "property.value.dotenv",
         "storage.modifier.package.java",
         "string.other.link.description.markdown",
         "string.other.link.description.title.markdown",
@@ -1253,12 +1265,10 @@
       "scope": [
         "entity.name.type.class.generic",
         "entity.name.type.class.templated",
-        "entity.other.attribute-name.pseudo-class.css",
         "entity.other.attribute-name",
         "entity.other.inherited-class",
-        "entity.other.pseudo-class.css",
-        "entity.other.pseudo-element.css",
-        "storage.type.function",
+        "entity.other.pseudo-class",
+        "entity.other.pseudo-element",
         "storage.type",
       ],
       "settings": {
@@ -1268,9 +1278,12 @@
     },
     {
       "scope": [
+        "constant.other.set.regexp",
         "entity.name.tag support.class.component",
         "entity.name.tag.js.jsx support.class.component.js.jsx",
         "entity.name.tag",
+        "meta.property-list",
+        "meta.property-name",
         "punctuation.section.embedded entity.name.tag",
         "storage.modifier.lifetime.rust",
         "storage.modifier.visibility.rust",
@@ -1283,7 +1296,6 @@
         "string.other.link.title",
         "string.regexp punctuation.definition.string.begin",
         "string.regexp punctuation.definition.string.end",
-        "constant.other.set.regexp",
       ],
       "settings": {
         "foreground": "#B691FF"
@@ -1305,6 +1317,7 @@
         "markup.inline.raw.markdown",
         "markup.inline.raw.string.markdown string.other.link.title.markdown",
         "markup.inline.raw.string.markdown",
+        "support.constant.property-value",
         "support.constant",
         "variable.other.constant",
       ],
