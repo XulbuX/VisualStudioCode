@@ -186,26 +186,26 @@
     "editorActionList.focusForeground": "#FBFCFF",
     "editorActionList.foreground": "#C8C9CC",
     "editorBracketHighlight.foreground1": "#8085FF",
-    "editorBracketHighlight.foreground2": "#BD7DFF",
-    "editorBracketHighlight.foreground3": "#F27AFF",
-    "editorBracketHighlight.foreground4": "#FF70BF",
-    "editorBracketHighlight.foreground5": "#FF7570",
-    "editorBracketHighlight.foreground6": "#FF8D70",
+    "editorBracketHighlight.foreground2": "#9E7EFF",
+    "editorBracketHighlight.foreground3": "#BD7DFF",
+    "editorBracketHighlight.foreground4": "#D87BFF",
+    "editorBracketHighlight.foreground5": "#F27AFF",
+    "editorBracketHighlight.foreground6": "#FF77D3",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF5054",
     "editorBracketMatch.background": "#0000",
     "editorBracketMatch.border": "#66676A",
     "editorBracketPairGuide.activeBackground1": "#8085FF25",
-    "editorBracketPairGuide.activeBackground2": "#BD7DFF25",
-    "editorBracketPairGuide.activeBackground3": "#F27AFF25",
-    "editorBracketPairGuide.activeBackground4": "#FF70BF25",
-    "editorBracketPairGuide.activeBackground5": "#FF757025",
-    "editorBracketPairGuide.activeBackground6": "#FF8D7025",
+    "editorBracketPairGuide.activeBackground2": "#9E7EFF25",
+    "editorBracketPairGuide.activeBackground3": "#BD7DFF25",
+    "editorBracketPairGuide.activeBackground4": "#D87BFF25",
+    "editorBracketPairGuide.activeBackground5": "#F27AFF25",
+    "editorBracketPairGuide.activeBackground6": "#FF77D325",
     "editorBracketPairGuide.background1": "#8085FF16",
-    "editorBracketPairGuide.background2": "#BD7DFF16",
-    "editorBracketPairGuide.background3": "#F27AFF16",
-    "editorBracketPairGuide.background4": "#FF70BF16",
-    "editorBracketPairGuide.background5": "#FF757016",
-    "editorBracketPairGuide.background6": "#FF8D7016",
+    "editorBracketPairGuide.background2": "#9E7EFF16",
+    "editorBracketPairGuide.background3": "#BD7DFF16",
+    "editorBracketPairGuide.background4": "#D87BFF16",
+    "editorBracketPairGuide.background5": "#F27AFF16",
+    "editorBracketPairGuide.background6": "#FF77D316",
     "editorCodeLens.foreground": "#A8ABFF90",
     "editorCommentsWidget.rangeActiveBackground": "#5C61FF0E",
     "editorCommentsWidget.rangeBackground": "#5C61FF0E",
@@ -807,6 +807,60 @@
       }
     },
     {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold markup.italic",
+        "markup.italic markup.bold",
+        "markup.quote markup.bold"
+      ],
+      "settings": {
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline markup.bold",
+        "markup.bold markup.underline"
+      ],
+      "settings": {
+        "fontStyle": "underline bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline markup.italic",
+        "markup.italic markup.underline",
+        "markup.quote markup.underline"
+      ],
+      "settings": {
+        "fontStyle": "underline italic"
+      }
+    },
+    {
+      "scope": [
+        "markup.strikethrough markup.bold",
+        "markup.bold markup.strikethrough"
+      ],
+      "settings": {
+        "fontStyle": "strikethrough bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.strikethrough markup.italic",
+        "markup.italic markup.strikethrough",
+        "markup.quote markup.strikethrough"
+      ],
+      "settings": {
+        "fontStyle": "strikethrough italic"
+      }
+    },
+    {
       "scope": [
         "comment storage.type",
         "comment support.class",
@@ -833,6 +887,7 @@
     {
       "scope": [
         "entity.other.jinja2.delimiter",
+        "fenced_code.block.language",
         "keyword.operator.heading.restructuredtext",
         "keyword.operator.table.row.restructuredtext keyword.operator.table.data.restructuredtext",
         "keyword.operator.type.annotation",
@@ -900,7 +955,6 @@
         "entity.name.namespace",
         "entity.name.tag.documentation",
         "entity.name.type.namespace",
-        "markup.fenced_code.block.markdown",
         "markup.raw.block.markdown",
         "meta.annotation.rust keyword.operator",
         "meta.annotation.rust keyword",
@@ -916,6 +970,7 @@
         "punctuation.definition.variable",
         "storage.modifier.import.java",
         "string.other.git-status.help.key",
+        "string.quoted.other.lt-gt.include",
         "support.other.namespace.php",
         "support.other.namespace.use",
         "support.other.namespace",
@@ -942,6 +997,7 @@
       "scope": [
         "comment.other.git-status.head",
         "entity.name.operator.custom-literal",
+        "markup.fenced_code.block",
         "meta.attribute.python",
         "meta.object.member",
         "meta.paragraph.markdown",
@@ -978,6 +1034,7 @@
     {
       "scope": [
         "keyword - keyword.operator",
+        "keyword.control.directive",
         "keyword",
         "punctuation.definition.string.template.begin",
         "punctuation.definition.string.template.end",
@@ -1052,7 +1109,6 @@
       "scope": [
         "entity.name.section",
         "entity.name.variable",
-        "keyword.control.directive",
         "meta.function-call.arguments.python",
         "source.yaml meta.mapping.key string",
         "source",
@@ -1313,6 +1369,7 @@
     },
     {
       "scope": [
+        "constant.language",
         "constant",
         "markup.inline.raw.markdown",
         "markup.inline.raw.string.markdown string.other.link.title.markdown",
