@@ -1095,6 +1095,8 @@
     },
     {
       "scope": [
+        "meta.object-literal.key",
+        "meta.objectliteral",
         "meta.selector",
         "parameters variable.function",
         "variable.other.object.property",
