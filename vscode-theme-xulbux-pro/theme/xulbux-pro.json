@@ -1097,6 +1097,7 @@
       "scope": [
         "meta.selector",
         "parameters variable.function",
+        "variable.other.object.property",
         "variable.other.property.static",
         "variable.other.property",
         "variable.parameter",
@@ -1112,6 +1113,7 @@
         "meta.function-call.arguments.python",
         "source.yaml meta.mapping.key string",
         "source",
+        "variable.other.object",
         "variable",
       ],
       "settings": {
@@ -1314,7 +1316,7 @@
         "string.other.link.title.markdown",
       ],
       "settings": {
-        "foreground": "#BDBFFF"
+        "foreground": "#C7CAFF"
       }
     },
     {
@@ -1328,7 +1330,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#BDBFFF",
+        "foreground": "#C7CAFF",
         "fontStyle": "italic"
       }
     },
@@ -1369,21 +1371,6 @@
     },
     {
       "scope": [
-        "constant.language",
-        "constant",
-        "markup.inline.raw.markdown",
-        "markup.inline.raw.string.markdown string.other.link.title.markdown",
-        "markup.inline.raw.string.markdown",
-        "support.constant.property-value",
-        "support.constant",
-        "variable.other.constant",
-      ],
-      "settings": {
-        "foreground": "#D4A8FF"
-      }
-    },
-    {
-      "scope": [
         "constant.numeric",
         "token.debug-token",
       ],
@@ -1396,6 +1383,21 @@
       "settings": {
         "foreground": "#D87BFF",
         "background": "#D87BFF60"
+      }
+    },
+    {
+      "scope": [
+        "constant.language",
+        "constant",
+        "markup.inline.raw.markdown",
+        "markup.inline.raw.string.markdown string.other.link.title.markdown",
+        "markup.inline.raw.string.markdown",
+        "support.constant.property-value",
+        "support.constant",
+        "variable.other.constant",
+      ],
+      "settings": {
+        "foreground": "#D9A8FF"
       }
     },
     {
