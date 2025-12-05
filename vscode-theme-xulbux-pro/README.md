@@ -12,7 +12,7 @@ This Visual Studio Code extension contains three themes, which all try to make V
 
 ### **Enjoying these themes? Have suggestions?**
 
-Please consider leaving a review on the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-pro) or giving a ⭐ on [**GitHub**](https://github.com/XulbuX/VisualStudioCode).
+Please consider leaving a review on the [**Visual Studio Marketplace**](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-xulbux-neon-pro) or giving a ⭐ on [**GitHub**](https://github.com/XulbuX/VisualStudioCode).
 
 
 <br>
@@ -175,7 +175,6 @@ import random
 for IDX in range(10, 0, -1):
     x = random.randint(1, 10) + IDX
     print(f"NUMBER: {x}")
-
 ```
 
 #### Java
@@ -192,7 +191,6 @@ public class Example {
     }
   }
 }
-
 ```
 
 #### C++
@@ -210,7 +208,6 @@ int main() {
   }
   return 0;
 }
-
 ```
 
 #### Vue.js
@@ -225,7 +222,6 @@ int main() {
 <script setup lang="ts">
 const randNum = () => Math.floor(Math.random() * 100);
 </script>
-
 ```
 
 
