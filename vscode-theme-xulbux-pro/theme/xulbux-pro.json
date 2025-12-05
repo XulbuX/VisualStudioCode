@@ -1099,6 +1099,7 @@
         "meta.objectliteral",
         "meta.selector",
         "parameters variable.function",
+        "variable.other.jsdoc",
         "variable.other.object.property",
         "variable.other.property.static",
         "variable.other.property",
