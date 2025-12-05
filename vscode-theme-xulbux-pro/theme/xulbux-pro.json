@@ -1308,6 +1308,7 @@
         "constant.language",
         "entity.name.section.group-title",
         "entity.name.type.namespace.php",
+        "meta.at-rule.keyframes.header",
         "meta.namespace.php entity.name.type.namespace.php",
         "meta.property-value",
         "meta.tag string.other.link.title.markdown",
@@ -1316,6 +1317,7 @@
         "string.other.link.description.markdown",
         "string.other.link.description.title.markdown",
         "string.other.link.title.markdown",
+        "variable.parameter.keyframe-list",
       ],
       "settings": {
         "foreground": "#C7CAFF"
