@@ -941,6 +941,7 @@
         "comment entity.name.tag",
         "comment entity.name.type",
         "comment keyword",
+        "keyword.other.phpdoc",
         "meta.brace",
         "meta.function.decorator",
         "support.variable.property",
