@@ -692,7 +692,7 @@
     "terminal.ansiBrightYellow": "#FFBA62",
     "terminal.ansiCyan": "#15D6C6",
     "terminal.ansiGreen": "#0AD182",
-    "terminal.ansiMagenta": "#AE5BFF",
+    "terminal.ansiMagenta": "#A879FC",
     "terminal.ansiRed": "#FF3C52",
     "terminal.ansiWhite": "#DBDCE0",
     "terminal.ansiYellow": "#FF7C59",
@@ -759,8 +759,8 @@
     "textCodeBlock.border": "#353639",
     "textLink.activeForeground": "#A8ABFF",
     "textLink.foreground": "#8085FF",
-    "textPreformat.background": "#020306AA", // INLINE CODE
-    "textPreformat.foreground": "#C8C9CC",
+    "textPreformat.background": "#FBFCFF20", // INLINE CODE
+    "textPreformat.foreground": "#FBFCFF",
     "textSeparator.foreground": "#66676A",
     "titleBar.activeBackground": "#252629",
     "titleBar.activeForeground": "#86878A",
