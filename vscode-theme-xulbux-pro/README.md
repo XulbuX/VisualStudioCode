@@ -2,7 +2,7 @@
 
 # <span style="color:#00EDDF">Theme</span> <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/icon.png?raw=true"></a>
 
-### A theme pack which focuses on <span style="color:#B691FF">**CLEAR SYNTAX**</span> and <span style="color:#B691FF">**BEAUTIFUL COLORS**</span>.
+### <span style="color:#FF9E6A">**100% FREE**</span> theme pack which focuses on <span style="color:#B691FF">**CLEAR SYNTAX**</span> and <span style="color:#B691FF">**BEAUTIFUL COLORS**</span>.
 
 This Visual Studio Code extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
 
@@ -54,10 +54,10 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
       <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF6B75?style=for-the-badge">
-        <img src="https://img.shields.io/badge/%23-FF9770?style=for-the-badge">
-        <img src="https://img.shields.io/badge/%23-FFAC70?style=for-the-badge">
+        <img src="https://img.shields.io/badge/%23-FF8170?style=for-the-badge">
+        <img src="https://img.shields.io/badge/%23-FFA970?style=for-the-badge">
+        <img src="https://img.shields.io/badge/%23-85F29D?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-6BFFF5?style=for-the-badge">
-        <img src="https://img.shields.io/badge/%23-8CB9FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-9098FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-B691FF?style=for-the-badge">
         <img src="https://img.shields.io/badge/%23-D87BFF?style=for-the-badge">

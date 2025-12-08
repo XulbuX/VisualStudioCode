@@ -1029,8 +1029,8 @@
         "token.error-token",
       ],
       "settings": {
-        "foreground": "#FC4C58",
-        "background": "#FC4C5860"
+        "foreground": "#FF5054",
+        "background": "#FF505460"
       }
     },
     {
