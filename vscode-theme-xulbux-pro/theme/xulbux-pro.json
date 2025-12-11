@@ -240,7 +240,7 @@
     "editorGutter.modifiedBackground": "#BD7DFFCD",
     "editorGutter.modifiedSecondaryBackground": "#BD7DFF75",
     "editorHint.border": "#353639",
-    "editorHint.foreground": "#BD7DFF",
+    "editorHint.foreground": "#86878A",
     "editorHoverWidget.background": "#252629",
     "editorHoverWidget.border": "#353639",
     "editorHoverWidget.foreground": "#C8C9CC",
