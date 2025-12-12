@@ -7,8 +7,7 @@
 This Visual Studio Code extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
 
 > <br>
->
-> 🎨 To get a better feeling of how the themes look on the code, continue at the [**theme previews**](#previews).
+> 🎨 To get a better feeling of how the themes look on the code, continue at the <a href="#previews"><strong>theme previews</strong></a>.
 > <br>
 > <br>
 
@@ -34,8 +33,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 <br>
 
 > <br>
->
-> 💡 My personal recommendation is to use <span style="color:#FF9E6A">**XulbuX PRO**</span> for the best experience.
+> 💡 My personal recommendation is to use <span style="color:#FF9E6A"><strong>XulbuX PRO</strong></span> for the best experience.
 > <br>
 > <br>
 
