@@ -177,7 +177,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 
 ## Code used for Theme Previews
 
-#### C++
+### C++
 
 ```cpp
 #include <iostream>
@@ -194,7 +194,7 @@ int main() {
 }
 ```
 
-#### Java
+### Java
 
 ```java
 import java.util.Random;
@@ -210,7 +210,7 @@ public class Example {
 }
 ```
 
-#### Python
+### Python
 
 ```python
 import random
@@ -220,7 +220,7 @@ for IDX in range(10, 0, -1):
     print(f"NUMBER: {x}")
 ```
 
-#### Vue.js
+### Vue.js
 
 ```vue
 <template>
