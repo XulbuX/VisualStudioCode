@@ -175,7 +175,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 <br>
 
 
-## Preview Code Samples 📄
+## Preview Code Samples 🧪
 
 ### C++
 
