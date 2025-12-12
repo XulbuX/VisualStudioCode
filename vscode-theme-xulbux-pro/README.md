@@ -124,52 +124,52 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
 
 ### C++
 
-> **XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center"></a>
 
-> **XulbuX PRO Legacy**
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO Legacy**
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro-legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-pro-legacy.png?raw=true" alt="C++ – XulbuX PRO – Syntax Highlighting" height="330" align="center"></a>
 
-> **XulbuX VaporWave**&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-vaporwave.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/cpp_xulbux-vaporwave.png?raw=true" alt="C++ – XulbuX VaporWave – Syntax Highlighting" height="330" align="center"></a>
 
 <span id="preview-java" />
 
 ### Java
 
-> **XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center"></a>
 
-> **XulbuX PRO Legacy**
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO Legacy**
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro-legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-pro-legacy.png?raw=true" alt="Java – XulbuX PRO – Syntax Highlighting" height="312" align="center"></a>
 
-> **XulbuX VaporWave**&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-vaporwave.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/java_xulbux-vaporwave.png?raw=true" alt="Java – XulbuX VaporWave – Syntax Highlighting" height="312" align="center"></a>
 
 <span id="preview-py" />
 
 ### Python
 
-> **XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center"></a>
 
-> **XulbuX PRO Legacy**
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO Legacy**
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro-legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-pro-legacy.png?raw=true" alt="Python – XulbuX PRO – Syntax Highlighting" height="204" align="center"></a>
 
-> **XulbuX VaporWave**&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-vaporwave.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/py_xulbux-vaporwave.png?raw=true" alt="Python – XulbuX VaporWave – Syntax Highlighting" height="204" align="center"></a>
 
 <span id="preview-vue" />
 
 ### Vue.js
 
-> **XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center"></a>
 
-> **XulbuX PRO Legacy**
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX PRO Legacy**
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro-legacy.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-pro-legacy.png?raw=true" alt="Vue.js – XulbuX PRO – Syntax Highlighting" height="276" align="center"></a>
 
-> **XulbuX VaporWave**&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**XulbuX VaporWave**&nbsp;
 > <a href="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-vaporwave.png"><img src="https://github.com/XulbuX/VisualStudioCode/blob/main/vscode-theme-xulbux-pro/preview/img/vue_xulbux-vaporwave.png?raw=true" alt="Vue.js – XulbuX VaporWave – Syntax Highlighting" height="276" align="center"></a>
 
 
