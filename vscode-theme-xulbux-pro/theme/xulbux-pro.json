@@ -338,7 +338,7 @@
     "extensionButton.prominentForeground": "#C8C9CC",
     "extensionButton.prominentHoverBackground": "#404144",
     "extensionButton.separator": "#9E7EFF",
-    "extensionIcon.preReleaseForeground": "#9E7EFF",
+    "extensionIcon.preReleaseForeground": "#8867EB",
     "extensionIcon.sponsorForeground": "#F27AFF",
     "extensionIcon.starForeground": "#FFAC70",
     "extensionIcon.verifiedForeground": "#AB8FFF",
