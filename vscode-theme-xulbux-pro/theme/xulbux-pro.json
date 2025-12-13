@@ -1084,6 +1084,7 @@
         "keyword.other.template.end",
         "markup.deleted punctuation.definition.deleted",
         "markup.deleted",
+        "support.variable.magic",
       ],
       "settings": {
         "foreground": "#FF8170"
