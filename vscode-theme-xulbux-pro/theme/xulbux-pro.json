@@ -1000,7 +1000,6 @@
       "scope": [
         "comment.other.git-status.head",
         "entity.name.operator.custom-literal",
-        "meta.attribute.python",
         "meta.object.member",
         "meta.paragraph.markdown",
         "meta.type_params.rust",
@@ -1084,7 +1083,6 @@
         "keyword.other.template.end",
         "markup.deleted punctuation.definition.deleted",
         "markup.deleted",
-        "support.variable.magic",
       ],
       "settings": {
         "foreground": "#FF8170"
@@ -1159,9 +1157,11 @@
         "markup.raw",
         "meta.attribute-with-value.id string",
         "meta.attribute.id.html string",
+        "meta.attribute",
         "meta.property-list.css variable.other",
         "source.git-show meta.diff.range.unified",
         "source.jinja2 variable.other.jinja2",
+        "support.variable.magic",
       ],
       "settings": {
         "foreground": "#FFC499"
