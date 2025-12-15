@@ -945,6 +945,7 @@
         "keyword.other.phpdoc",
         "meta.brace",
         "meta.function.decorator",
+        "meta.typehint.comment",
       ],
       "settings": {
         "foreground": "#B0B1B4"
