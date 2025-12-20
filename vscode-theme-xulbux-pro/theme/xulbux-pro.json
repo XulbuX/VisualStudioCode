@@ -943,6 +943,7 @@
         "comment entity.name.type",
         "comment keyword",
         "constant.other.ellipsis",
+        "entity.name.function.decorator",
         "keyword.other.phpdoc",
         "meta.brace",
         "meta.function.decorator",
