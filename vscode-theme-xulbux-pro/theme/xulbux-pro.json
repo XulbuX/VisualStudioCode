@@ -1066,7 +1066,11 @@
     },
     {
       "scope": [
+        "entity.name.tag.backreference",
+        "entity.name.tag.named.group",
+        "meta.named",
         "source.ignore",
+        "support.other.match",
       ],
       "settings": {
         "foreground": "#FF828A"
@@ -1298,11 +1302,20 @@
     },
     {
       "scope": [
+        "support.other.escape.special",
+      ],
+      "settings": {
+        "foreground": "#A6B6FF"
+      }
+    },
+    {
+      "scope": [
         "constant.character.escape",
         "constant.language",
         "entity.name.section.group-title",
         "entity.name.type.namespace.php",
         "meta.at-rule.keyframes.header",
+        "meta.fstring",
         "meta.namespace.php entity.name.type.namespace.php",
         "meta.property-value",
         "meta.tag string.other.link.title.markdown",
@@ -1402,8 +1415,8 @@
     {
       "scope": "region.pinkish",
       "settings": {
-        "foreground": "#FF77D3",
-        "background": "#FF77D360"
+        "foreground": "#FF7DE9",
+        "background": "#FF7DE960"
       }
     },
     {
