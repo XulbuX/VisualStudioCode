@@ -786,7 +786,10 @@
   },
   "tokenColors": [
     {
-      "scope": "markup.bold",
+      "scope": [
+        "markup.bold",
+        "strong",
+      ],
       "settings": {
         "fontStyle": "bold"
       }
@@ -795,19 +798,24 @@
       "scope": [
         "markup.italic",
         "markup.quote",
+        "emphasis",
       ],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
-      "scope": "markup.underline",
+      "scope": [
+        "markup.underline",
+      ],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
-      "scope": "markup.strikethrough",
+      "scope": [
+        "markup.strikethrough",
+      ],
       "settings": {
         "fontStyle": "strikethrough"
       }
@@ -1040,6 +1048,7 @@
         "keyword - keyword.operator",
         "keyword.control.directive",
         "keyword",
+        "log.error",
         "punctuation.definition.string.template.begin",
         "punctuation.definition.string.template.end",
         "punctuation.definition.template-expression.begin",
@@ -1068,6 +1077,7 @@
       "scope": [
         "entity.name.tag.backreference",
         "entity.name.tag.named.group",
+        "log.exception",
         "meta.named",
         "source.ignore",
         "support.other.match",
@@ -1126,6 +1136,7 @@
         "entity.name.section",
         "entity.name.variable",
         "invalid.deprecated",
+        "log.warning",
         "markup.changed punctuation.definition.changed",
         "markup.changed",
         "markup.heading",
@@ -1263,6 +1274,7 @@
         "entity.name.label",
         "entity.name.operator.custom-literal.number",
         "entity.other.git-status.hex",
+        "log.info",
         "markup.inline.raw.string.markdown markup.underline.link.markdown",
         "markup.underline.link.image.markdown",
         "markup.underline.link.markdown",
@@ -1302,6 +1314,8 @@
     },
     {
       "scope": [
+        "log.date",
+        "log.time",
         "support.other.escape.special",
       ],
       "settings": {
@@ -1383,6 +1397,7 @@
     {
       "scope": [
         "constant.numeric",
+        "log.debug",
         "token.debug-token",
       ],
       "settings": {
