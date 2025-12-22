@@ -1316,6 +1316,7 @@
       "scope": [
         "log.date",
         "log.time",
+        "property.value.dotenv",
         "support.other.escape.special",
       ],
       "settings": {
@@ -1333,7 +1334,6 @@
         "meta.namespace.php entity.name.type.namespace.php",
         "meta.property-value",
         "meta.tag string.other.link.title.markdown",
-        "property.value.dotenv",
         "storage.modifier.package.java",
         "string.other.link.description.markdown",
         "string.other.link.description.title.markdown",
