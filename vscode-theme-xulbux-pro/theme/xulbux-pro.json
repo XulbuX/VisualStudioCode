@@ -1314,6 +1314,7 @@
     },
     {
       "scope": [
+        "constant.character.entity.named",
         "log.date",
         "log.time",
         "property.value.dotenv",
