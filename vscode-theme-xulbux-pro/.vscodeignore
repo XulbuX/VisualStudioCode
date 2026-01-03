@@ -1,1 +1,13 @@
-/packages
+# VSIX PACKAGE ARCHIVES
+packages/
+
+# PREVIEW IMAGES & CODE SAMPLES
+preview/
+
+# TEXT FILES (COLOR PALETTES, …) IN THEME FOLDER
+theme/*.txt
+# OLDER THEME VERSIONS TO COMPARE LOCALLY
+theme/*1.*.*.json
+
+# GITIGNORE FILE
+.gitignore

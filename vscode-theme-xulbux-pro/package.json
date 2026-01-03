@@ -2,7 +2,7 @@
   "name": "theme-xulbux-neon-pro",
   "version": "1.3.0",
   "displayName": "Theme XulbuX PRO",
-  "description": "Crisp dark-themes that use powerful colors and clear syntax highlighting.",
+  "description": "100% FREE theme pack which focuses on clear syntax and beautiful colors.",
   "icon": "icon.png",
   "author": {
     "name": "XulbuX",
@@ -21,7 +21,26 @@
   "sponsor": { "url": "https://github.com/sponsors/XulbuX" },
   "engines": { "vscode": "^1.87.0" },
   "categories": ["Themes", "Visualization"],
-	"keywords": ["color-theme", "dark", "theme", "xulbux"],
+  "keywords": [
+    "accessible",
+    "blue",
+    "color",
+    "colorful",
+    "comprehensive",
+    "dark",
+    "extensive",
+    "modern",
+    "neon",
+    "pro",
+    "professional",
+    "purple",
+    "semantic",
+    "syntax",
+    "theme",
+    "vaporwave",
+    "vibrant",
+    "xulbux"
+  ],
   "contributes": {
     "themes": [
       {
