@@ -787,8 +787,8 @@
   "tokenColors": [
     {
       "scope": [
-        "markup.bold",
         "strong",
+        "markup.bold",
       ],
       "settings": {
         "fontStyle": "bold"
@@ -796,9 +796,8 @@
     },
     {
       "scope": [
-        "markup.italic",
-        "markup.quote",
         "emphasis",
+        "markup.italic",
       ],
       "settings": {
         "fontStyle": "italic"
@@ -806,6 +805,7 @@
     },
     {
       "scope": [
+        "underline",
         "markup.underline",
       ],
       "settings": {
@@ -814,6 +814,7 @@
     },
     {
       "scope": [
+        "strikethrough",
         "markup.strikethrough",
       ],
       "settings": {
@@ -822,50 +823,57 @@
     },
     {
       "scope": [
+        "strong emphasis",
+        "emphasis strong",
         "markup.bold markup.italic",
         "markup.italic markup.bold",
-        "markup.quote markup.bold"
       ],
       "settings": {
-        "fontStyle": "italic bold"
+        "fontStyle": "bold italic"
       }
     },
     {
       "scope": [
+        "strong underline",
+        "underline strong",
+        "markup.bold markup.underline",
         "markup.underline markup.bold",
-        "markup.bold markup.underline"
       ],
       "settings": {
-        "fontStyle": "underline bold"
+        "fontStyle": "bold underline"
       }
     },
     {
       "scope": [
-        "markup.underline markup.italic",
+        "emphasis underline",
+        "underline emphasis",
         "markup.italic markup.underline",
-        "markup.quote markup.underline"
+        "markup.underline markup.italic",
       ],
       "settings": {
-        "fontStyle": "underline italic"
+        "fontStyle": "italic underline"
       }
     },
     {
       "scope": [
+        "strong strikethrough",
+        "strikethrough strong",
+        "markup.bold markup.strikethrough",
         "markup.strikethrough markup.bold",
-        "markup.bold markup.strikethrough"
       ],
       "settings": {
-        "fontStyle": "strikethrough bold"
+        "fontStyle": "bold strikethrough"
       }
     },
     {
       "scope": [
-        "markup.strikethrough markup.italic",
+        "emphasis strikethrough",
+        "strikethrough emphasis",
         "markup.italic markup.strikethrough",
-        "markup.quote markup.strikethrough"
+        "markup.strikethrough markup.italic",
       ],
       "settings": {
-        "fontStyle": "strikethrough italic"
+        "fontStyle": "italic strikethrough"
       }
     },
     {
@@ -875,6 +883,7 @@
         "comment support",
         "constant.numeric.line-number.find-in-files",
         "constant.numeric.line-number.match.find-in-files",
+        "log.verbose",
         "meta.link.email.lt-gt",
         "punctuation",
         "string.quoted.docstring punctuation.definition",
@@ -1078,6 +1087,7 @@
         "entity.name.tag.backreference",
         "entity.name.tag.named.group",
         "log.exception",
+        "log.exceptiontype",
         "meta.named",
         "source.ignore",
         "support.other.match",
