@@ -964,6 +964,7 @@
         "keyword.other.phpdoc",
         "meta.brace",
         "meta.function.decorator",
+        "meta.shebang",
         "meta.typehint.comment",
       ],
       "settings": {
