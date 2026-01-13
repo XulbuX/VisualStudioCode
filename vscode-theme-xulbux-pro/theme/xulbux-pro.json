@@ -1090,6 +1090,7 @@
         "log.exception",
         "log.exceptiontype",
         "meta.named",
+        "punctuation.separator.pointer-access",
         "source.ignore",
         "support.other.match",
       ],
@@ -1180,7 +1181,8 @@
     },
     {
       "scope": [
-        "constant.other.placeholder.c",
+        "constant.character.format.placeholder",
+        "constant.other.placeholder",
         "constant.other.symbol",
         "entity.other.attribute-name.id.css",
         "markup.raw",
@@ -1228,7 +1230,6 @@
         "entity.name.function.js",
         "entity.name.function.member.static",
         "entity.name.function.operator",
-        "entity.name.function.preprocessor",
         "entity.name.function.templated",
         "entity.name.function",
         "entity.name",
@@ -1428,6 +1429,7 @@
         "constant.language",
         "constant.other.caps",
         "constant",
+        "entity.name.function.preprocessor",
         "markup.inline.raw.markdown",
         "markup.inline.raw.string.markdown string.other.link.title.markdown",
         "markup.inline.raw.string.markdown",
