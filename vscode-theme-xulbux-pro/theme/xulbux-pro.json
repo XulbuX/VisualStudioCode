@@ -883,11 +883,14 @@
         "comment support",
         "constant.numeric.line-number.find-in-files",
         "constant.numeric.line-number.match.find-in-files",
+        "invalid",
         "log.verbose",
+        "meta.function.parameters",
         "meta.link.email.lt-gt",
         "punctuation",
         "string.quoted.docstring punctuation.definition",
         "string.quoted.docstring",
+        "token.error-token",
       ],
       "settings": {
         "foreground": "#66676A"
@@ -1044,16 +1047,6 @@
     },
     {
       "scope": [
-        "invalid",
-        "token.error-token",
-      ],
-      "settings": {
-        "foreground": "#FC4C58",
-        "background": "#FC4C5860"
-      }
-    },
-    {
-      "scope": [
         "keyword - keyword.operator",
         "keyword.control.directive",
         "keyword",
@@ -1106,6 +1099,7 @@
         "keyword.declaration.function.ruby",
         "keyword.declaration.namespace.ruby",
         "keyword.operator.misc.rust",
+        "keyword.operator.positional.parameter",
         "keyword.operator.rest",
         "keyword.other.template.begin",
         "keyword.other.template.end",
