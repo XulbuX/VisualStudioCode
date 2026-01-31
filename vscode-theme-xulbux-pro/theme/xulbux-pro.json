@@ -1085,6 +1085,7 @@
         "punctuation.separator.pointer-access",
         "source.ignore",
         "support.other.match",
+        "keyword.operator.positional.parameter",
       ],
       "settings": {
         "foreground": "#FF828A"
@@ -1099,7 +1100,6 @@
         "keyword.declaration.function.ruby",
         "keyword.declaration.namespace.ruby",
         "keyword.operator.misc.rust",
-        "keyword.operator.positional.parameter",
         "keyword.operator.rest",
         "keyword.other.template.begin",
         "keyword.other.template.end",
