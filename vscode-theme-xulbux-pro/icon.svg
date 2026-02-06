@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="icon-xulbux" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+<svg id="icon-xulbux" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
   <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs>
     <style>
@@ -24,11 +24,11 @@
       }
 
       .st5 {
-        fill: #9660ff;
+        fill: url(#radial-gradient);
       }
 
       .st6 {
-        fill: #252629;
+        fill: #9660ff;
       }
 
       .st7 {
@@ -55,12 +55,18 @@
         fill: #ff60c5;
       }
     </style>
+    <radialGradient id="radial-gradient" cx="256" cy="256" fx="256" fy="256" r="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020306"/>
+      <stop offset=".8" stop-color="#252629"/>
+      <stop offset=".98" stop-color="#353639"/>
+      <stop offset="1" stop-color="#66676a"/>
+    </radialGradient>
   </defs>
-  <circle class="st6" cx="256" cy="256" r="256"/>
+  <circle class="st5" cx="256" cy="256" r="256"/>
   <g>
     <polygon class="st11" points="107.7 110.91 151.13 111.12 242.22 246.37 203.4 241.32 107.7 110.91"/>
     <polyline class="st9" points="178.26 125.51 205.01 125.37 247.49 178.64 230.6 200.16"/>
-    <polyline class="st5" points="242.22 261.98 202.77 255.94 228.56 274.59"/>
+    <polyline class="st6" points="242.22 261.98 202.77 255.94 228.56 274.59"/>
     <polygon class="st2" points="272.48 308.21 247.49 310.68 238.18 285.18 249.8 275.34 272.48 308.21"/>
     <polygon class="st10" points="251.74 324.15 279.62 321.4 316.45 374.65 293.55 374.65 251.74 324.15"/>
     <polygon class="st0" points="258.42 259.03 302.88 265.45 396.95 374.65 338.4 374.65 258.42 259.03"/>
