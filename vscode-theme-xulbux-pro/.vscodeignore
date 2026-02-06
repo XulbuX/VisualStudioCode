@@ -9,8 +9,5 @@ theme/*.txt
 # OLDER THEME VERSIONS TO COMPARE LOCALLY
 theme/*1.*.*.json
 
-# SVG ICON
-icon.svg
-
 # GITIGNORE FILE
 .gitignore
