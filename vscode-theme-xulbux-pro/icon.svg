@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon-xulbux" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ca60ff;
+      }
+
+      .st1 {
+        fill: #d960ff;
+      }
+
+      .st2 {
+        fill: #a560ff;
+      }
+
+      .st3 {
+        fill: #ff6560;
+      }
+
+      .st4 {
+        fill: #ff60a8;
+      }
+
+      .st5 {
+        fill: #9660ff;
+      }
+
+      .st6 {
+        fill: #252629;
+      }
+
+      .st7 {
+        fill: #f660ff;
+      }
+
+      .st8 {
+        fill: #ff606c;
+      }
+
+      .st9 {
+        fill: #8760ff;
+      }
+
+      .st10 {
+        fill: #b460ff;
+      }
+
+      .st11 {
+        fill: #6065ff;
+      }
+
+      .st12 {
+        fill: #ff60c5;
+      }
+    </style>
+  </defs>
+  <circle class="st6" cx="256" cy="256" r="256"/>
+  <g>
+    <polygon class="st11" points="107.7 110.91 151.13 111.12 242.22 246.37 203.4 241.32 107.7 110.91"/>
+    <polyline class="st9" points="178.26 125.51 205.01 125.37 247.49 178.64 230.6 200.16"/>
+    <polyline class="st5" points="242.22 261.98 202.77 255.94 228.56 274.59"/>
+    <polygon class="st2" points="272.48 308.21 247.49 310.68 238.18 285.18 249.8 275.34 272.48 308.21"/>
+    <polygon class="st10" points="251.74 324.15 279.62 321.4 316.45 374.65 293.55 374.65 251.74 324.15"/>
+    <polygon class="st0" points="258.42 259.03 302.88 265.45 396.95 374.65 338.4 374.65 258.42 259.03"/>
+    <polygon class="st1" points="382.83 388.82 373.71 402.23 293.17 399.23 276.88 388.16 382.83 388.82"/>
+    <polygon class="st7" points="194.13 364.94 180.65 389.41 270.96 374.65 262.75 365.19 194.13 364.94"/>
+    <polygon class="st12" points="107.7 393.93 154.43 402.23 220.49 287.27 193.68 267.59 107.7 393.93"/>
+    <polygon class="st4" points="202.5 350.27 224.31 350.27 235.52 326.61 228.31 303.45 202.5 350.27"/>
+    <polygon class="st8" points="239.95 214.03 256.08 237.22 352.04 125.37 305.37 125.37 239.95 214.03"/>
+    <polygon class="st3" points="404.3 125.95 300.61 249.87 269.07 245.43 371.92 125.55 404.3 125.95"/>
+  </g>
+</svg>
