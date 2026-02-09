@@ -689,7 +689,7 @@
     "terminal.ansiRed": "#FF6B75",
     "terminal.ansiWhite": "#EAEBEE",
     "terminal.ansiYellow": "#FFA970",
-    "terminal.background": "#05071A",
+    "terminal.background": "#020306",
     "terminal.border": "#0000",
     "terminal.dropBackground": "#9E7EFF55",
     "terminal.findMatchBackground": "#28FFE088",
@@ -782,7 +782,9 @@
         "constant.numeric.line-number.find-in-files",
         "constant.numeric.line-number.match.find-in-files",
         "invalid",
+        "keyword.operator.assignment.dotenv",
         "log.verbose",
+        "meta.at-rule.keyframes.body",
         "punctuation",
         "string.quoted.docstring punctuation.definition",
         "string.quoted.docstring",
@@ -826,6 +828,10 @@
         "punctuation.separator entity.name.function.operator",
         "punctuation.separator.parameter",
         "punctuation.terminator",
+        "source.git-diff.command meta.diff.git-diff.header.from-file",
+        "source.git-diff.command meta.diff.git-diff.header.to-file",
+        "source.git-show meta.diff.header.from-file",
+        "source.git-show meta.diff.header.to-file",
         "source",
         "string punctuation.definition.string source",
         "string source punctuation.section.embedded",
@@ -897,6 +903,7 @@
     {
       "scope": [
         "keyword - keyword.operator",
+        "keyword.other.important",
         "keyword",
         "log.error",
         "punctuation.definition.string.template.begin",
@@ -918,12 +925,14 @@
       "scope": [
         "entity.name.tag.backreference",
         "entity.name.tag.named.group",
+        "entity.other.keyframe-offset.percentage",
         "keyword.operator.positional.parameter",
         "log.exception",
         "log.exceptiontype",
         "meta.named",
         "punctuation.separator.pointer-access",
         "source.ignore",
+        "storage.type.function.arrow",
         "support.other.match",
       ],
       "settings": { "foreground": "#FF828A" }
@@ -975,6 +984,7 @@
         "meta.diff.git-diff.header",
         "meta.function-call.arguments.python",
         "region.yellowish",
+        "source.python",
         "source.yaml meta.mapping.key string",
         "storage.class.std.rust",
         "storage.modifier.const.rust",
@@ -1089,7 +1099,10 @@
         "constant.character.entity.named",
         "log.date",
         "log.time",
+        "meta.attribute-selector",
         "property.value.dotenv",
+        "source.ini",
+        "string.unquoted.plain",
         "support.other.escape.special",
       ],
       "settings": { "foreground": "#A6B6FF" }
@@ -1097,7 +1110,6 @@
     {
       "scope": [
         "constant.character.escape",
-        "constant.language",
         "entity.name.section.group-title",
         "entity.name.type.class.generic",
         "entity.name.type.class.templated",
@@ -1110,11 +1122,12 @@
         "meta.fstring",
         "meta.namespace.php entity.name.type.namespace.php",
         "meta.property-value",
-        "meta.tag string.other.link.title",
+        "meta.tag string.other.link.title.markdown",
         "storage.modifier.package.java",
         "storage.type",
-        "string.other.link.description",
-        "string.other.link.title",
+        "string.other.link.description.markdown",
+        "string.other.link.description.title.markdown",
+        "string.other.link.title.markdown",
         "variable.parameter.keyframe-list",
       ],
       "settings": { "foreground": "#C7CAFF" }
@@ -1149,6 +1162,7 @@
     },
     {
       "scope": [
+        "constant.language",
         "constant",
         "entity.name.function.preprocessor",
         "markup.inline.raw.markdown",
@@ -1171,6 +1185,8 @@
       "scope": [
         "strong",
         "markup.bold",
+        "comment",
+        "keyword.other.important",
       ],
       "settings": { "fontStyle": "bold" }
     },
@@ -1178,7 +1194,6 @@
       "scope": [
         "emphasis",
         "markup.italic",
-        "comment",
         "entity.name.type.class.generic",
         "entity.name.type.class.templated",
         "entity.other.attribute-name",
