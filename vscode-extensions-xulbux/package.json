@@ -11,7 +11,7 @@
     "email": "xulbux.real@gmail.com"
   },
   "repository": {
-    "url": "https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-extensions-xulbux",
+    "url": "https://github.com/xulbux/vscode/tree/main/vscode-extensions-xulbux",
     "type": "git"
   },
   "categories": ["Extension Packs"],

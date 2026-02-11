@@ -10,7 +10,7 @@
     "email": "xulbux.real@gmail.com"
   },
   "repository": {
-    "url": "https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-xulpy-formatter",
+    "url": "https://github.com/xulbux/vscode/tree/main/vscode-xulpy-formatter",
     "type": "git"
   },
   "categories": ["Formatters"],

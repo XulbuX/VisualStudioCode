@@ -9,10 +9,10 @@
   "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
 	"license": "MIT",
   "repository": {
-    "url": "https://github.com/XulbuX/VisualStudioCode/tree/main/vscode-theme-xulbux-pro",
+    "url": "https://github.com/xulbux/vscode/tree/main/vscode-theme-xulbux-pro",
     "type": "git"
   },
-  "bugs": { "url": "https://github.com/XulbuX/VisualStudioCode/issues" },
+  "bugs": { "url": "https://github.com/xulbux/vscode/issues" },
   "sponsor": { "url": "https://github.com/sponsors/XulbuX" },
   "engines": { "vscode": "^1.87.0" },
   "categories": ["Themes", "Visualization"],
